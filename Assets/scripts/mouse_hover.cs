@@ -17,13 +17,13 @@ public class mouse_hover : MonoBehaviour
         if (state)
         {
             sprite1.SetActive(true);
-            sprite2.SetActive(false);
+            //sprite2.SetActive(false);
             Console.WriteLine("Enter");
         }
         else
         {
             sprite1.SetActive(false);
-            sprite2.SetActive(true);
+            //sprite2.SetActive(true);
             Console.WriteLine("exit");
         }
     }
