@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 575071939
+    locked: 0
+  - name: interactibles
+    uniqueID: 1126825059
+    locked: 0
+  - name: items
+    uniqueID: 2134301913
+    locked: 0
+  - name: flashlight
+    uniqueID: 3244418825
+    locked: 0
+  - name: hand
+    uniqueID: 1396836177
+    locked: 0
+  m_RenderingLayers:
+  - Default
