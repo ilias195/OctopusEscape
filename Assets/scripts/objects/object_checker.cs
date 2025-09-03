@@ -1,32 +1,35 @@
 using NUnit.Framework;
 using Unity.VisualScripting;
+using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class object_checker : MonoBehaviour
 {
     [SerializeField] private GameObject Item;
+    [SerializeField] private GameObject closedSprite1;
+    [SerializeField] private GameObject closedSprite2;
+    [SerializeField] private GameObject openSprite;
+    public mouse_hover mouse_Hover;
     private bool active = false;
-
-    SpriteRenderer spriteRenderer;
-
-
     private void Start()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
-
+        openSprite.SetActive(false);
     }
-
     void Update()
     {
         if (Item != null)
         {
-            spriteRenderer.color = Color.red;
+            active = false;
         }
         else
         {
-            spriteRenderer.color = Color.green;
             active = true;
+        }
+
+        if (closedSprite1 == null) 
+        {
+            Destroy(mouse_Hover);
         }
     }
 
@@ -34,7 +37,11 @@ public class object_checker : MonoBehaviour
     {
         if (active)
         {
-            SceneManager.LoadScene(0);
+            closedSprite1.SetActive(false);
+            closedSprite2.SetActive(false);
+            openSprite.SetActive(true);
+            Destroy(closedSprite2);
+            Destroy(closedSprite1);
         }
     }
 }
