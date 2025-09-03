@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: e7e5c30e4ed58304e9864f968b38c694
+guid: 2f7d6402deb66644eb139a2ed0c2513b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1330406232973114123
-    second: 2nd_room_assets_0
-  - first:
-      213: 1263905553232974701
-    second: 2nd_room_assets_1
-  - first:
-      213: -4203183600952137015
-    second: 2nd_room_assets_2
-  - first:
-      213: 7011745084320464907
-    second: 2nd_room_assets_3
-  - first:
-      213: -8274770503934317785
-    second: 2nd_room_assets_4
+      213: -9008367597532126349
+    second: crateWhite_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2nd_room_assets_0
+      name: crateWhite_0
       rect:
         serializedVersion: 2
-        x: 90
-        y: 1354
-        width: 316
-        height: 430
+        x: 304
+        y: 338
+        width: 692
+        height: 737
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,96 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f40ca47492798de0800000000000000
-      internalID: -1330406232973114123
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2nd_room_assets_1
-      rect:
-        serializedVersion: 2
-        x: 2201
-        y: 494
-        width: 831
-        height: 1251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d63581a776b4a8110800000000000000
-      internalID: 1263905553232974701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2nd_room_assets_2
-      rect:
-        serializedVersion: 2
-        x: 302
-        y: 340
-        width: 1750
-        height: 936
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ca208bc8ca4ba5c0800000000000000
-      internalID: -4203183600952137015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2nd_room_assets_3
-      rect:
-        serializedVersion: 2
-        x: 3094
-        y: 687
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b00438e1109be4160800000000000000
-      internalID: 7011745084320464907
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2nd_room_assets_4
-      rect:
-        serializedVersion: 2
-        x: 1021
-        y: 321
-        width: 122
-        height: 198
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 72b6d1b711c1a2d80800000000000000
-      internalID: -8274770503934317785
+      spriteID: 37365fef569dbf280800000000000000
+      internalID: -9008367597532126349
       vertices: []
       indices: 
       edges: []
@@ -234,12 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      2nd_room_assets_0: -1330406232973114123
-      2nd_room_assets_1: 1263905553232974701
-      2nd_room_assets_2: -4203183600952137015
-      2nd_room_assets_3: 7011745084320464907
-      2nd_room_assets_4: -8274770503934317785
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

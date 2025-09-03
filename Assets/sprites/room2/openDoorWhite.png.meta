@@ -1,0 +1,1992 @@
+fileFormatVersion: 2
+guid: 7dba723523d9d5749832b7f084c48c6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3304968243172505421
+    second: openDoorWhite_0
+  - first:
+      213: 8507295205077697573
+    second: openDoorWhite_1
+  - first:
+      213: -5526692337959837482
+    second: openDoorWhite_2
+  - first:
+      213: -8563620310212041523
+    second: openDoorWhite_3
+  - first:
+      213: 1503556095173943931
+    second: openDoorWhite_4
+  - first:
+      213: 7444634316396835993
+    second: openDoorWhite_5
+  - first:
+      213: -4331756275394599062
+    second: openDoorWhite_6
+  - first:
+      213: -6043728341695311525
+    second: openDoorWhite_7
+  - first:
+      213: -7051066799595090174
+    second: openDoorWhite_8
+  - first:
+      213: -8812806578216294749
+    second: openDoorWhite_9
+  - first:
+      213: -5448050052964720356
+    second: openDoorWhite_10
+  - first:
+      213: -8679392024276570783
+    second: openDoorWhite_11
+  - first:
+      213: -7503677952832654214
+    second: openDoorWhite_12
+  - first:
+      213: 5429352465954077131
+    second: openDoorWhite_13
+  - first:
+      213: 3176365482931879498
+    second: openDoorWhite_14
+  - first:
+      213: 2810720582206673130
+    second: openDoorWhite_15
+  - first:
+      213: 3587688578817017652
+    second: openDoorWhite_16
+  - first:
+      213: 8012383143659341388
+    second: openDoorWhite_17
+  - first:
+      213: 3201696281860382387
+    second: openDoorWhite_18
+  - first:
+      213: -705943006325519119
+    second: openDoorWhite_19
+  - first:
+      213: -3867334025186620735
+    second: openDoorWhite_20
+  - first:
+      213: 4026033371791147626
+    second: openDoorWhite_21
+  - first:
+      213: 1483052584294864352
+    second: openDoorWhite_22
+  - first:
+      213: -89360419454805096
+    second: openDoorWhite_23
+  - first:
+      213: -5141326839074016782
+    second: openDoorWhite_24
+  - first:
+      213: 7041279026527558754
+    second: openDoorWhite_25
+  - first:
+      213: -1545882219887131823
+    second: openDoorWhite_26
+  - first:
+      213: 6936536064532735587
+    second: openDoorWhite_27
+  - first:
+      213: 2018342067135974435
+    second: openDoorWhite_28
+  - first:
+      213: 6926614212721632805
+    second: openDoorWhite_29
+  - first:
+      213: 5113762889219168174
+    second: openDoorWhite_30
+  - first:
+      213: -1328956926204710274
+    second: openDoorWhite_31
+  - first:
+      213: -8865729861079412814
+    second: openDoorWhite_32
+  - first:
+      213: 304884583528900725
+    second: openDoorWhite_33
+  - first:
+      213: 6497331672298280757
+    second: openDoorWhite_34
+  - first:
+      213: -6636014949577798488
+    second: openDoorWhite_35
+  - first:
+      213: 5043156059793606404
+    second: openDoorWhite_36
+  - first:
+      213: -3957951446447030930
+    second: openDoorWhite_37
+  - first:
+      213: 2509435426012229283
+    second: openDoorWhite_38
+  - first:
+      213: 7002711396697796355
+    second: openDoorWhite_39
+  - first:
+      213: -2633229153933808659
+    second: openDoorWhite_40
+  - first:
+      213: -2377032045967017644
+    second: openDoorWhite_41
+  - first:
+      213: -8924716734017902750
+    second: openDoorWhite_42
+  - first:
+      213: 3184258243836548099
+    second: openDoorWhite_43
+  - first:
+      213: 584530658043876180
+    second: openDoorWhite_44
+  - first:
+      213: -7884111771392922676
+    second: openDoorWhite_45
+  - first:
+      213: -4518306091953903896
+    second: openDoorWhite_46
+  - first:
+      213: 585697125168078958
+    second: openDoorWhite_47
+  - first:
+      213: -4837574795193312755
+    second: openDoorWhite_48
+  - first:
+      213: 5492064535382532388
+    second: openDoorWhite_49
+  - first:
+      213: -3632790884989964287
+    second: openDoorWhite_50
+  - first:
+      213: -8316168854541482495
+    second: openDoorWhite_51
+  - first:
+      213: -1974019443380114461
+    second: openDoorWhite_52
+  - first:
+      213: -342064020702165459
+    second: openDoorWhite_53
+  - first:
+      213: -8918290541443880545
+    second: openDoorWhite_54
+  - first:
+      213: 3943741672242691400
+    second: openDoorWhite_55
+  - first:
+      213: 6275705156561511689
+    second: openDoorWhite_56
+  - first:
+      213: -8381263666387391552
+    second: openDoorWhite_57
+  - first:
+      213: 3325099995159337812
+    second: openDoorWhite_58
+  - first:
+      213: -163322159297239018
+    second: openDoorWhite_59
+  - first:
+      213: -3657032485080190816
+    second: openDoorWhite_60
+  - first:
+      213: 6866114404809689083
+    second: openDoorWhite_61
+  - first:
+      213: 3885298455872578528
+    second: openDoorWhite_62
+  - first:
+      213: 1300811001569155113
+    second: openDoorWhite_63
+  - first:
+      213: -4589547170207047120
+    second: openDoorWhite_64
+  - first:
+      213: 6761040870348920657
+    second: openDoorWhite_65
+  - first:
+      213: 3906017695302304274
+    second: openDoorWhite_66
+  - first:
+      213: -5891117576685735204
+    second: openDoorWhite_67
+  - first:
+      213: -7893075898180024126
+    second: openDoorWhite_68
+  - first:
+      213: 487296022870885225
+    second: openDoorWhite_69
+  - first:
+      213: -4352626165674099071
+    second: openDoorWhite_70
+  - first:
+      213: 6074477064068165279
+    second: openDoorWhite_71
+  - first:
+      213: -7419129558682177833
+    second: openDoorWhite_72
+  - first:
+      213: -38314677191041454
+    second: openDoorWhite_73
+  - first:
+      213: -1215154512364917058
+    second: openDoorWhite_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: openDoorWhite_0
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1078
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d477e305b1b9ddd20800000000000000
+      internalID: 3304968243172505421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_1
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1122
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5244a0a5aebff0670800000000000000
+      internalID: 8507295205077697573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_2
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1065
+        width: 106
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0e70da99e3d43b0800000000000000
+      internalID: -5526692337959837482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_3
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 344
+        width: 117
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4ad7a23b8e72980800000000000000
+      internalID: -8563620310212041523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_4
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 494
+        width: 831
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7267b86d44bdd410800000000000000
+      internalID: 1503556095173943931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_5
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 885
+        width: 118
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9943487a777a05760800000000000000
+      internalID: 7444634316396835993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_6
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 875
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67298f3e9282e3c0800000000000000
+      internalID: -4331756275394599062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_7
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 840
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b515a42281d502ca0800000000000000
+      internalID: -6043728341695311525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_8
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 726
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f859a9a14952e90800000000000000
+      internalID: -7051066799595090174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_9
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 684
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6213ffb1f92b580800000000000000
+      internalID: -8812806578216294749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_10
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 690
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c116d728753a464b0800000000000000
+      internalID: -5448050052964720356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_11
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 627
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16de2a670fa9c8780800000000000000
+      internalID: -8679392024276570783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_12
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 672
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ba7878a49dd790800000000000000
+      internalID: -7503677952832654214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_13
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 723
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc975954d4fe85b40800000000000000
+      internalID: 5429352465954077131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_14
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 718
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e77fed397b41c20800000000000000
+      internalID: 3176365482931879498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_15
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 692
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0de494a7fa10720800000000000000
+      internalID: 2810720582206673130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_16
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 692
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4374d1901c70ac130800000000000000
+      internalID: 3587688578817017652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_17
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 663
+        width: 170
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46842a8404b13f60800000000000000
+      internalID: 8012383143659341388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_18
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 672
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be1af61ec5be6c20800000000000000
+      internalID: 3201696281860382387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_19
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 708
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fccb44739cf336f0800000000000000
+      internalID: -705943006325519119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_20
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 707
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca48f0b138745ac0800000000000000
+      internalID: -3867334025186620735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_21
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 712
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62ca7355085fd730800000000000000
+      internalID: 4026033371791147626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_22
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 673
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5de16c77cd49410800000000000000
+      internalID: 1483052584294864352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_23
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 688
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b9a650c2782cef0800000000000000
+      internalID: -89360419454805096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_24
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 675
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1bfc2da7656a8b0800000000000000
+      internalID: -5141326839074016782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_25
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 687
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c5594e7f5a7b160800000000000000
+      internalID: 7041279026527558754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_26
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 674
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153090bbf4ceb8ae0800000000000000
+      internalID: -1545882219887131823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_27
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 669
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366e822acc6834060800000000000000
+      internalID: 6936536064532735587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_28
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 671
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c0eda9a67920c10800000000000000
+      internalID: 2018342067135974435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_29
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 665
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e17d7de6402060800000000000000
+      internalID: 6926614212721632805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_30
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 642
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7db7df04cb7f640800000000000000
+      internalID: 5113762889219168174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_31
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 655
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72f5cb77b89e8de0800000000000000
+      internalID: -1328956926204710274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_32
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 664
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfc9cbf9a996f480800000000000000
+      internalID: -8865729861079412814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_33
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 665
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578abb2d9ea2b3400800000000000000
+      internalID: 304884583528900725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_34
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 342
+        width: 575
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537db3b4bb82b2a50800000000000000
+      internalID: 6497331672298280757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_35
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 386
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8accb3eff8328e3a0800000000000000
+      internalID: -6636014949577798488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_36
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 403
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4074bd277b3ecf540800000000000000
+      internalID: 5043156059793606404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_37
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 411
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6df74c21288219c0800000000000000
+      internalID: -3957951446447030930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_38
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 405
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae6d32793e43d220800000000000000
+      internalID: 2509435426012229283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_39
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 484
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f60c0d9e0ae2160800000000000000
+      internalID: 7002711396697796355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_40
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 479
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deba2933904e47bd0800000000000000
+      internalID: -2633229153933808659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_41
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 471
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4597a60c2f5130fd0800000000000000
+      internalID: -2377032045967017644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 527
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267e0e36a69052480800000000000000
+      internalID: -8924716734017902750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_43
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 450
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3049cf87002c03c20800000000000000
+      internalID: 3184258243836548099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_44
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 343
+        width: 55
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453d709598bac1800800000000000000
+      internalID: 584530658043876180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_45
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 531
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb26a0ad12069290800000000000000
+      internalID: -7884111771392922676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_46
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 508
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6aa926c80cb41c0800000000000000
+      internalID: -4518306091953903896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_47
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 453
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e606c93ae60d02800800000000000000
+      internalID: 585697125168078958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_48
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 556
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a9e16ba5b7ddcb0800000000000000
+      internalID: -4837574795193312755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_49
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 471
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4212ff2c89bb73c40800000000000000
+      internalID: 5492064535382532388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_50
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 457
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10075ecffebb59dc0800000000000000
+      internalID: -3632790884989964287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_51
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 463
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10643ecdc78079c80800000000000000
+      internalID: -8316168854541482495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_52
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 349
+        width: 41
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb2d9966cfda94e0800000000000000
+      internalID: -1974019443380114461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_53
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 507
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d260b93e59eb04bf0800000000000000
+      internalID: -342064020702165459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_54
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 521
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99e281f00edb3480800000000000000
+      internalID: -8918290541443880545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_55
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 561
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3ee3f72cfab630800000000000000
+      internalID: 3943741672242691400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_56
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 548
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905afebf698c71750800000000000000
+      internalID: 6275705156561511689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_57
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 542
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb671ce915cfab80800000000000000
+      internalID: -8381263666387391552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_58
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 539
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b102614d0252e20800000000000000
+      internalID: 3325099995159337812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_59
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 544
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61863278c53cbbdf0800000000000000
+      internalID: -163322159297239018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_60
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 505
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a03bb2a45c9f3dc0800000000000000
+      internalID: -3657032485080190816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_61
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 540
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7cfd54ca6594f50800000000000000
+      internalID: 6866114404809689083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_62
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 577
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3a8a44c5a5be530800000000000000
+      internalID: 3885298455872578528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_63
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 556
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9281374c6b86d0210800000000000000
+      internalID: 1300811001569155113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_64
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 526
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032e8e74a27ae40c0800000000000000
+      internalID: -4589547170207047120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_65
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 548
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1579b0d99da04dd50800000000000000
+      internalID: 6761040870348920657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_66
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 343
+        width: 119
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21242ee1666f43630800000000000000
+      internalID: 3906017695302304274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_67
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 482
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd23697c6cb8e3ea0800000000000000
+      internalID: -5891117576685735204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_68
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 562
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c848c73a49267290800000000000000
+      internalID: -7893075898180024126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_69
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 471
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9630ea7a62933c600800000000000000
+      internalID: 487296022870885225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_70
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 577
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ebce2409d5893c0800000000000000
+      internalID: -4352626165674099071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_71
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 347
+        width: 83
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e6a00b4b0ec4450800000000000000
+      internalID: 6074477064068165279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_72
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 342
+        width: 36
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dee52089f4f90990800000000000000
+      internalID: -7419129558682177833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_73
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 344
+        width: 107
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e185c0101e77ff0800000000000000
+      internalID: -38314677191041454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openDoorWhite_74
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 342
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebea64fb867e22fe0800000000000000
+      internalID: -1215154512364917058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
