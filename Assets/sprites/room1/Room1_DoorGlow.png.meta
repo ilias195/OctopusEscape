@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Room1_DoorGlow_0: -3558000877741407194
+      Room1_DoorGlow_1: 4060662880874608582
+      Room1_DoorGlow_2: -918424595987050219
+      Room1_DoorGlow_3: 2254071345951967230
+      Room1_DoorGlow_4: -1030777036041457788
+      Room1_DoorGlow_5: -6730429304792010440
+      Room1_DoorGlow_6: -6564435779937725713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

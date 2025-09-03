@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LockpickGlow_0: -3816879921735036258
+      LockpickGlow_1: -6954154451894547284
+      LockpickGlow_2: -1718410427625979266
+      LockpickGlow_3: 5185376204678602289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

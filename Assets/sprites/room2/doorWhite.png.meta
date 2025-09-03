@@ -1,0 +1,6517 @@
+fileFormatVersion: 2
+guid: 845ead687fcd252448ba9b98d1d06bc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8163828236867387621
+    second: doorWhite_0
+  - first:
+      213: 2060933064595471074
+    second: doorWhite_1
+  - first:
+      213: -7308539260133274261
+    second: doorWhite_2
+  - first:
+      213: 5651023399142921459
+    second: doorWhite_3
+  - first:
+      213: -7385409686984664577
+    second: doorWhite_4
+  - first:
+      213: 8238942274811645748
+    second: doorWhite_5
+  - first:
+      213: -7259675970372704004
+    second: doorWhite_6
+  - first:
+      213: 1695157952707867180
+    second: doorWhite_7
+  - first:
+      213: 1581699696313963922
+    second: doorWhite_8
+  - first:
+      213: -9144326932863849723
+    second: doorWhite_9
+  - first:
+      213: -5071828556053667042
+    second: doorWhite_10
+  - first:
+      213: -8388279156717537601
+    second: doorWhite_11
+  - first:
+      213: -8617165206167644577
+    second: doorWhite_12
+  - first:
+      213: 6808263548981633272
+    second: doorWhite_13
+  - first:
+      213: 241378453915021164
+    second: doorWhite_14
+  - first:
+      213: -7131250080829715258
+    second: doorWhite_15
+  - first:
+      213: -4601741747813323820
+    second: doorWhite_16
+  - first:
+      213: 812171905432906575
+    second: doorWhite_17
+  - first:
+      213: 7678868610735969303
+    second: doorWhite_18
+  - first:
+      213: -912944342062104624
+    second: doorWhite_19
+  - first:
+      213: -6118318757201327411
+    second: doorWhite_20
+  - first:
+      213: 4558177871646925764
+    second: doorWhite_21
+  - first:
+      213: 2075898510156926376
+    second: doorWhite_22
+  - first:
+      213: 6860555522459121413
+    second: doorWhite_23
+  - first:
+      213: -207198978230776987
+    second: doorWhite_24
+  - first:
+      213: -8336976569332928229
+    second: doorWhite_25
+  - first:
+      213: 8322276084193536230
+    second: doorWhite_26
+  - first:
+      213: 2759243073907919149
+    second: doorWhite_27
+  - first:
+      213: -80866076321858107
+    second: doorWhite_28
+  - first:
+      213: 7251373459822665448
+    second: doorWhite_29
+  - first:
+      213: -3464754620802945384
+    second: doorWhite_30
+  - first:
+      213: -7445296928502985990
+    second: doorWhite_31
+  - first:
+      213: -8720410329425766370
+    second: doorWhite_32
+  - first:
+      213: 5086878197012223124
+    second: doorWhite_33
+  - first:
+      213: 4512469169712228070
+    second: doorWhite_34
+  - first:
+      213: -3490120105442131823
+    second: doorWhite_35
+  - first:
+      213: -9154612617864748677
+    second: doorWhite_36
+  - first:
+      213: -6527151867548166214
+    second: doorWhite_37
+  - first:
+      213: 3827411677805623735
+    second: doorWhite_38
+  - first:
+      213: -6132626530445485542
+    second: doorWhite_39
+  - first:
+      213: -961260363702388511
+    second: doorWhite_40
+  - first:
+      213: 6239011539466621381
+    second: doorWhite_41
+  - first:
+      213: 3808064414614280777
+    second: doorWhite_42
+  - first:
+      213: 9004750782919250379
+    second: doorWhite_43
+  - first:
+      213: -6316484190950057634
+    second: doorWhite_44
+  - first:
+      213: 6845011899974974001
+    second: doorWhite_45
+  - first:
+      213: -4519308743656535962
+    second: doorWhite_46
+  - first:
+      213: 2564682811968559818
+    second: doorWhite_47
+  - first:
+      213: 4222269718514137365
+    second: doorWhite_48
+  - first:
+      213: -3257193791271895082
+    second: doorWhite_49
+  - first:
+      213: -2816856450489999618
+    second: doorWhite_50
+  - first:
+      213: -1348198426300207308
+    second: doorWhite_51
+  - first:
+      213: 7156306483079590448
+    second: doorWhite_52
+  - first:
+      213: -6033802929228483049
+    second: doorWhite_53
+  - first:
+      213: -1278920670155610383
+    second: doorWhite_54
+  - first:
+      213: -4540619931228238031
+    second: doorWhite_55
+  - first:
+      213: 8251317727036905254
+    second: doorWhite_56
+  - first:
+      213: 4447854830226657805
+    second: doorWhite_57
+  - first:
+      213: -719354214862966079
+    second: doorWhite_58
+  - first:
+      213: -1859440400783615830
+    second: doorWhite_59
+  - first:
+      213: -8673473774147876849
+    second: doorWhite_60
+  - first:
+      213: -9132226839812691779
+    second: doorWhite_61
+  - first:
+      213: 1229388336303172287
+    second: doorWhite_62
+  - first:
+      213: -7603561208108117596
+    second: doorWhite_63
+  - first:
+      213: 4638452226077473525
+    second: doorWhite_64
+  - first:
+      213: -259655715708320891
+    second: doorWhite_65
+  - first:
+      213: 9000550851336368282
+    second: doorWhite_66
+  - first:
+      213: 4865413433733874789
+    second: doorWhite_67
+  - first:
+      213: -7113467349404260316
+    second: doorWhite_68
+  - first:
+      213: -1517834550667289281
+    second: doorWhite_69
+  - first:
+      213: 4259329466042547443
+    second: doorWhite_70
+  - first:
+      213: -8398541613772490498
+    second: doorWhite_71
+  - first:
+      213: -5711181564509672531
+    second: doorWhite_72
+  - first:
+      213: 961869068826673988
+    second: doorWhite_73
+  - first:
+      213: -5952249427023567950
+    second: doorWhite_74
+  - first:
+      213: -4303365996602501845
+    second: doorWhite_75
+  - first:
+      213: -339062795027390676
+    second: doorWhite_76
+  - first:
+      213: 1152882664813895552
+    second: doorWhite_77
+  - first:
+      213: -4568539614010493863
+    second: doorWhite_78
+  - first:
+      213: 8666249215568643739
+    second: doorWhite_79
+  - first:
+      213: -2623904617333756208
+    second: doorWhite_80
+  - first:
+      213: -6307209775391318518
+    second: doorWhite_81
+  - first:
+      213: -8589372327956252558
+    second: doorWhite_82
+  - first:
+      213: 7117469066655400672
+    second: doorWhite_83
+  - first:
+      213: 2142656971922710043
+    second: doorWhite_84
+  - first:
+      213: -8751076167469745493
+    second: doorWhite_85
+  - first:
+      213: 4189144701530204815
+    second: doorWhite_86
+  - first:
+      213: -145602760000559657
+    second: doorWhite_87
+  - first:
+      213: 8866994841284105367
+    second: doorWhite_88
+  - first:
+      213: 6069775408738675748
+    second: doorWhite_89
+  - first:
+      213: 1429322155779302271
+    second: doorWhite_90
+  - first:
+      213: 6254045275330823950
+    second: doorWhite_91
+  - first:
+      213: 8284888594930775490
+    second: doorWhite_92
+  - first:
+      213: 7454301129616601924
+    second: doorWhite_93
+  - first:
+      213: 6665430472309604263
+    second: doorWhite_94
+  - first:
+      213: 417205358979558314
+    second: doorWhite_95
+  - first:
+      213: 4332637077868720591
+    second: doorWhite_96
+  - first:
+      213: 9214246920686770773
+    second: doorWhite_97
+  - first:
+      213: 9110011397879632303
+    second: doorWhite_98
+  - first:
+      213: 5010473223004351943
+    second: doorWhite_99
+  - first:
+      213: 1121139532582689091
+    second: doorWhite_100
+  - first:
+      213: 2766863477771458167
+    second: doorWhite_101
+  - first:
+      213: 680194775706925426
+    second: doorWhite_102
+  - first:
+      213: 4346590563998969388
+    second: doorWhite_103
+  - first:
+      213: 2286771669391875855
+    second: doorWhite_104
+  - first:
+      213: -7101027842197233688
+    second: doorWhite_105
+  - first:
+      213: 567760314018414313
+    second: doorWhite_106
+  - first:
+      213: 5800051255353979777
+    second: doorWhite_107
+  - first:
+      213: 7941485012171939317
+    second: doorWhite_108
+  - first:
+      213: -6414204773423569542
+    second: doorWhite_109
+  - first:
+      213: -8708854038880730734
+    second: doorWhite_110
+  - first:
+      213: 3277346465788492855
+    second: doorWhite_111
+  - first:
+      213: -7397735062913023361
+    second: doorWhite_112
+  - first:
+      213: 296216281611607632
+    second: doorWhite_113
+  - first:
+      213: -12828878600015187
+    second: doorWhite_114
+  - first:
+      213: -7717428935490979121
+    second: doorWhite_115
+  - first:
+      213: 6919206943386562252
+    second: doorWhite_116
+  - first:
+      213: -5624494749737459211
+    second: doorWhite_117
+  - first:
+      213: -2699414080059155355
+    second: doorWhite_118
+  - first:
+      213: 7102919702239628447
+    second: doorWhite_119
+  - first:
+      213: 773697363813859299
+    second: doorWhite_120
+  - first:
+      213: 9187132249983528031
+    second: doorWhite_121
+  - first:
+      213: -6201485738547646729
+    second: doorWhite_122
+  - first:
+      213: -2836835889604175852
+    second: doorWhite_123
+  - first:
+      213: -8209878874916201679
+    second: doorWhite_124
+  - first:
+      213: -2849314513487112033
+    second: doorWhite_125
+  - first:
+      213: -384060749085030787
+    second: doorWhite_126
+  - first:
+      213: 4913690431519166727
+    second: doorWhite_127
+  - first:
+      213: 5277288115080576390
+    second: doorWhite_128
+  - first:
+      213: -1348582273697269625
+    second: doorWhite_129
+  - first:
+      213: -6759634883726550795
+    second: doorWhite_130
+  - first:
+      213: 8865894730723384661
+    second: doorWhite_131
+  - first:
+      213: 864844064509950450
+    second: doorWhite_132
+  - first:
+      213: -122777967236858625
+    second: doorWhite_133
+  - first:
+      213: 127795570385245141
+    second: doorWhite_134
+  - first:
+      213: 2613973914129007446
+    second: doorWhite_135
+  - first:
+      213: 8907504303564128530
+    second: doorWhite_136
+  - first:
+      213: 2227080450415841051
+    second: doorWhite_137
+  - first:
+      213: -2317665977639154727
+    second: doorWhite_138
+  - first:
+      213: 5356349610375413084
+    second: doorWhite_139
+  - first:
+      213: 1404224533429192329
+    second: doorWhite_140
+  - first:
+      213: -3004853894215317571
+    second: doorWhite_141
+  - first:
+      213: 353895194835466261
+    second: doorWhite_142
+  - first:
+      213: 4259155080826751604
+    second: doorWhite_143
+  - first:
+      213: 8785232372672612894
+    second: doorWhite_144
+  - first:
+      213: 3088122457178039439
+    second: doorWhite_145
+  - first:
+      213: 5920454137295336646
+    second: doorWhite_146
+  - first:
+      213: 1793364044961506595
+    second: doorWhite_147
+  - first:
+      213: 9191446069392468253
+    second: doorWhite_148
+  - first:
+      213: 4546634314102187463
+    second: doorWhite_149
+  - first:
+      213: 1622678393534702372
+    second: doorWhite_150
+  - first:
+      213: 195093386508694584
+    second: doorWhite_151
+  - first:
+      213: 8904930450619480992
+    second: doorWhite_152
+  - first:
+      213: 4015546138830197148
+    second: doorWhite_153
+  - first:
+      213: -7307675621747133199
+    second: doorWhite_154
+  - first:
+      213: 1553671480853168146
+    second: doorWhite_155
+  - first:
+      213: 2594986449686050770
+    second: doorWhite_156
+  - first:
+      213: -7364662126377237784
+    second: doorWhite_157
+  - first:
+      213: -9058131417814960527
+    second: doorWhite_158
+  - first:
+      213: -3323788823723074542
+    second: doorWhite_159
+  - first:
+      213: -3785190049838423086
+    second: doorWhite_160
+  - first:
+      213: -4980270474258051869
+    second: doorWhite_161
+  - first:
+      213: -3075676207668834009
+    second: doorWhite_162
+  - first:
+      213: -2577485761982954770
+    second: doorWhite_163
+  - first:
+      213: 5848244986632242103
+    second: doorWhite_164
+  - first:
+      213: -6272352410425694673
+    second: doorWhite_165
+  - first:
+      213: 1721864705366099494
+    second: doorWhite_166
+  - first:
+      213: -1333075115362335642
+    second: doorWhite_167
+  - first:
+      213: -8186289774234539806
+    second: doorWhite_168
+  - first:
+      213: 8162454430300680068
+    second: doorWhite_169
+  - first:
+      213: -8040974422278581335
+    second: doorWhite_170
+  - first:
+      213: 1664535045816572581
+    second: doorWhite_171
+  - first:
+      213: 5589410375545818923
+    second: doorWhite_172
+  - first:
+      213: 130187982156435293
+    second: doorWhite_173
+  - first:
+      213: 8459599731491759369
+    second: doorWhite_174
+  - first:
+      213: -1807514670198018727
+    second: doorWhite_175
+  - first:
+      213: 1920765239404061535
+    second: doorWhite_176
+  - first:
+      213: 5395556209204085055
+    second: doorWhite_177
+  - first:
+      213: -9031139257078057764
+    second: doorWhite_178
+  - first:
+      213: -2354195369798367559
+    second: doorWhite_179
+  - first:
+      213: -8899227875839977079
+    second: doorWhite_180
+  - first:
+      213: 2560243423621215973
+    second: doorWhite_181
+  - first:
+      213: -7591772991487089131
+    second: doorWhite_182
+  - first:
+      213: -6097109318573706546
+    second: doorWhite_183
+  - first:
+      213: -6098226484114166460
+    second: doorWhite_184
+  - first:
+      213: 1891401528908401646
+    second: doorWhite_185
+  - first:
+      213: 7079777627696114571
+    second: doorWhite_186
+  - first:
+      213: -5314784355350563641
+    second: doorWhite_187
+  - first:
+      213: -7244865570165940446
+    second: doorWhite_188
+  - first:
+      213: -8021362913117251730
+    second: doorWhite_189
+  - first:
+      213: 7723342747603814128
+    second: doorWhite_190
+  - first:
+      213: -1813324571815981683
+    second: doorWhite_191
+  - first:
+      213: -4735800543300019137
+    second: doorWhite_192
+  - first:
+      213: 7526106573262994917
+    second: doorWhite_193
+  - first:
+      213: 5997300337451752534
+    second: doorWhite_194
+  - first:
+      213: 796758876819295824
+    second: doorWhite_195
+  - first:
+      213: 8332377032463172171
+    second: doorWhite_196
+  - first:
+      213: -1978997852922491853
+    second: doorWhite_197
+  - first:
+      213: 7345857288579917041
+    second: doorWhite_198
+  - first:
+      213: 511663268983864120
+    second: doorWhite_199
+  - first:
+      213: 832078395490783628
+    second: doorWhite_200
+  - first:
+      213: 1637416743318028851
+    second: doorWhite_201
+  - first:
+      213: 1107330848644776820
+    second: doorWhite_202
+  - first:
+      213: 8471533415045906661
+    second: doorWhite_203
+  - first:
+      213: -5554496462613220171
+    second: doorWhite_204
+  - first:
+      213: 687112969913877351
+    second: doorWhite_205
+  - first:
+      213: -3465195669663936163
+    second: doorWhite_206
+  - first:
+      213: -348086963976329640
+    second: doorWhite_207
+  - first:
+      213: -2809263785711434720
+    second: doorWhite_208
+  - first:
+      213: -7307184996251684531
+    second: doorWhite_209
+  - first:
+      213: -132651889325647745
+    second: doorWhite_210
+  - first:
+      213: -6536555372829405891
+    second: doorWhite_211
+  - first:
+      213: 5170135200935120982
+    second: doorWhite_212
+  - first:
+      213: -5064572930730095420
+    second: doorWhite_213
+  - first:
+      213: -7247875382114938228
+    second: doorWhite_214
+  - first:
+      213: -2814547516051523748
+    second: doorWhite_215
+  - first:
+      213: -5971629075185675353
+    second: doorWhite_216
+  - first:
+      213: 1596815830415453569
+    second: doorWhite_217
+  - first:
+      213: -8907087841972803840
+    second: doorWhite_218
+  - first:
+      213: -4289886008409569755
+    second: doorWhite_219
+  - first:
+      213: 471975436682605247
+    second: doorWhite_220
+  - first:
+      213: -8474236402697164583
+    second: doorWhite_221
+  - first:
+      213: 6186276253865223786
+    second: doorWhite_222
+  - first:
+      213: -1430768199155211658
+    second: doorWhite_223
+  - first:
+      213: -5901298418638652906
+    second: doorWhite_224
+  - first:
+      213: 2488861395506510566
+    second: doorWhite_225
+  - first:
+      213: -6348499199302717084
+    second: doorWhite_226
+  - first:
+      213: -4934966451474007889
+    second: doorWhite_227
+  - first:
+      213: -1933322876268960848
+    second: doorWhite_228
+  - first:
+      213: -3921993225449844393
+    second: doorWhite_229
+  - first:
+      213: -3803203483248356965
+    second: doorWhite_230
+  - first:
+      213: -8394764445092430332
+    second: doorWhite_231
+  - first:
+      213: 787589305728449317
+    second: doorWhite_232
+  - first:
+      213: -7023974964281707779
+    second: doorWhite_233
+  - first:
+      213: -1906867848458281284
+    second: doorWhite_234
+  - first:
+      213: 7531817827990354180
+    second: doorWhite_235
+  - first:
+      213: 8512563825536398258
+    second: doorWhite_236
+  - first:
+      213: -3688294147235915729
+    second: doorWhite_237
+  - first:
+      213: 2833549126040869839
+    second: doorWhite_238
+  - first:
+      213: -1032165813425598178
+    second: doorWhite_239
+  - first:
+      213: 4431470126609153172
+    second: doorWhite_240
+  - first:
+      213: 8745637511022506570
+    second: doorWhite_241
+  - first:
+      213: 8979592483947794360
+    second: doorWhite_242
+  - first:
+      213: 3476694229263159519
+    second: doorWhite_243
+  - first:
+      213: -8045329355020437363
+    second: doorWhite_244
+  - first:
+      213: -7235329516088892958
+    second: doorWhite_245
+  - first:
+      213: 3312688739790356052
+    second: doorWhite_246
+  - first:
+      213: -4588336689138388045
+    second: doorWhite_247
+  - first:
+      213: 4944343677250321130
+    second: doorWhite_248
+  - first:
+      213: -8845967739409914245
+    second: doorWhite_249
+  - first:
+      213: -6728710154852807865
+    second: doorWhite_250
+  - first:
+      213: 8304203414516671476
+    second: doorWhite_251
+  - first:
+      213: 5327355339918607945
+    second: doorWhite_252
+  - first:
+      213: -1046636930053002755
+    second: doorWhite_253
+  - first:
+      213: -2893434353379528252
+    second: doorWhite_254
+  - first:
+      213: -5733416708832176878
+    second: doorWhite_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doorWhite_0
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1670
+        width: 139
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f373ee87144be80800000000000000
+      internalID: -8163828236867387621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1616
+        width: 113
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaf115f3b7e99c10800000000000000
+      internalID: 2060933064595471074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_2
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 493
+        width: 831
+        height: 1252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d82c4e34ad29a90800000000000000
+      internalID: -7308539260133274261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1392
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4955357d77c6e40800000000000000
+      internalID: 5651023399142921459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_4
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 334
+        width: 618
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9dc8ee401c18990800000000000000
+      internalID: -7385409686984664577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_5
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1242
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fc81fd85a965270800000000000000
+      internalID: 8238942274811645748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_6
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1249
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8ee791b23704b90800000000000000
+      internalID: -7259675970372704004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_7
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1236
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22b4593d29668710800000000000000
+      internalID: 1695157952707867180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_8
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1264
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295132c5e7353f510800000000000000
+      internalID: 1581699696313963922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_9
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1116
+        width: 91
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bec907a13d81180800000000000000
+      internalID: -9144326932863849723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_10
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1185
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e132dbaccce3d99b0800000000000000
+      internalID: -5071828556053667042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_11
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6b90bcc88d69b80800000000000000
+      internalID: -8388279156717537601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_12
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1087
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56958396eda96880800000000000000
+      internalID: -8617165206167644577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_13
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1113
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f06a4640afcb7e50800000000000000
+      internalID: 6808263548981633272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_14
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1101
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fa90acc6c895300800000000000000
+      internalID: 241378453915021164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_15
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1089
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc4baf95d5b80d90800000000000000
+      internalID: -7131250080829715258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_16
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1083
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db608de2445320c0800000000000000
+      internalID: -4601741747813323820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_17
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1076
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b61ef7b0a654b00800000000000000
+      internalID: 812171905432906575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_18
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1093
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71490db2152d09a60800000000000000
+      internalID: 7678868610735969303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_19
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1078
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df7fa735f19453f0800000000000000
+      internalID: -912944342062104624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_20
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1076
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac76ea18d571ba0800000000000000
+      internalID: -6118318757201327411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_21
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1078
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3af8ebf96e14f30800000000000000
+      internalID: 4558177871646925764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_22
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1084
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad8aa742b21fcc10800000000000000
+      internalID: 2075898510156926376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_23
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1071
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507350e16e6953f50800000000000000
+      internalID: 6860555522459121413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 797
+        width: 301
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b0bb880a1ef1df0800000000000000
+      internalID: -207198978230776987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_25
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 674
+        width: 266
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11f72c3bfb1d4c80800000000000000
+      internalID: -8336976569332928229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_26
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1066
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8a519510aae7370800000000000000
+      internalID: 8322276084193536230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_27
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1059
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d290d35e4fcca4620800000000000000
+      internalID: 2759243073907919149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_28
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 341
+        width: 121
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdb4766bb4b0eef0800000000000000
+      internalID: -80866076321858107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_29
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1072
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eedc660ebd02a460800000000000000
+      internalID: 7251373459822665448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_30
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1061
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ea5298708baefc0800000000000000
+      internalID: -3464754620802945384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_31
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1057
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afac541f3edfca890800000000000000
+      internalID: -7445296928502985990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_32
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1053
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e181ee21201eaf680800000000000000
+      internalID: -8720410329425766370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_33
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1062
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494d79cc4c8389640800000000000000
+      internalID: 5086878197012223124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_34
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1054
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e669904dc28f9e30800000000000000
+      internalID: 4512469169712228070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_35
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1057
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1904cab614a909fc0800000000000000
+      internalID: -3490120105442131823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 735
+        width: 52
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71ecd7c35844f080800000000000000
+      internalID: -9154612617864748677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_37
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1009
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab793c375f5ea65a0800000000000000
+      internalID: -6527151867548166214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1008
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b939c874a2bd1530800000000000000
+      internalID: 3827411677805623735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_39
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 992
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a19a0a9a884eaa0800000000000000
+      internalID: -6132626530445485542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_40
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 998
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e83bdccacae8a2f0800000000000000
+      internalID: -961260363702388511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_41
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 720
+        width: 127
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1987f70fb659650800000000000000
+      internalID: 6239011539466621381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_42
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 981
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ad3eab866f8d430800000000000000
+      internalID: 3808064414614280777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_43
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 973
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc192dab02d47fc70800000000000000
+      internalID: 9004750782919250379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_44
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 966
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e591d0138175758a0800000000000000
+      internalID: -6316484190950057634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_45
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 961
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a745d7e0e5efe50800000000000000
+      internalID: 6845011899974974001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_46
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 954
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668090854a03841c0800000000000000
+      internalID: -4519308743656535962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_47
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 944
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca9fe0ed65979320800000000000000
+      internalID: 2564682811968559818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_48
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 946
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5197ced30f3889a30800000000000000
+      internalID: 4222269718514137365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_49
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 936
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df71a2118f1cc2d0800000000000000
+      internalID: -3257193791271895082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_50
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 927
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe964d8bf388e8d0800000000000000
+      internalID: -2816856450489999618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_51
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 928
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fa2a1acac3a4de0800000000000000
+      internalID: -1348198426300207308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_52
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 934
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b8c3a4de405360800000000000000
+      internalID: 7156306483079590448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_53
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 936
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716ff9e4430a34ca0800000000000000
+      internalID: -6033802929228483049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_54
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 928
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6687f2d6c504ee0800000000000000
+      internalID: -1278920670155610383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_55
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 562
+        width: 179
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f0513da3a7cf0c0800000000000000
+      internalID: -4540619931228238031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_56
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 912
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6271be061c1928270800000000000000
+      internalID: 8251317727036905254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_57
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 905
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d025a200764f9bd30800000000000000
+      internalID: 4447854830226657805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_58
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 920
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2b96327275406f0800000000000000
+      internalID: -719354214862966079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_59
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 902
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85846aec0f136e0800000000000000
+      internalID: -1859440400783615830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_60
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 901
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08cf337e81a1a780800000000000000
+      internalID: -8673473774147876849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_61
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 894
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db82da4e210d34180800000000000000
+      internalID: -9132226839812691779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_62
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 911
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaeb54ad2aaf0110800000000000000
+      internalID: 1229388336303172287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 888
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a196cadd59ba7690800000000000000
+      internalID: -7603561208108117596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_64
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 902
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fab7fa59b71f5040800000000000000
+      internalID: 4638452226077473525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_65
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 896
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5834e459084856cf0800000000000000
+      internalID: -259655715708320891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 898
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a907eb4ff4168ec70800000000000000
+      internalID: 9000550851336368282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_67
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 903
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5640f1b6dbb658340800000000000000
+      internalID: 4865413433733874789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_68
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 898
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4286b6d6223e74d90800000000000000
+      internalID: -7113467349404260316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_69
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 896
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d59ab94819feae0800000000000000
+      internalID: -1517834550667289281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_70
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 901
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcf1dc159d2c1b30800000000000000
+      internalID: 4259329466042547443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_71
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 896
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef831cf46e2627b80800000000000000
+      internalID: -8398541613772490498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_72
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 874
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab24af40aecdb0b0800000000000000
+      internalID: -5711181564509672531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_73
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 882
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44389d762de395d00800000000000000
+      internalID: 961869068826673988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_74
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 727
+        width: 139
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3ecb7beac556da0800000000000000
+      internalID: -5952249427023567950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_75
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 889
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2553022d6f5744c0800000000000000
+      internalID: -4303365996602501845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_76
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 886
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f57d13f286b4bf0800000000000000
+      internalID: -339062795027390676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_77
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 878
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f10f7ecacdfff00800000000000000
+      internalID: 1152882664813895552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_78
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 889
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954ba9c1d694990c0800000000000000
+      internalID: -4568539614010493863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_79
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 882
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b960afceeb3b44870800000000000000
+      internalID: 8666249215568643739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_80
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 882
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de605f07a4069bd0800000000000000
+      internalID: -2623904617333756208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_81
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 883
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0edde5502a4878a0800000000000000
+      internalID: -6307209775391318518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_82
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 886
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f89c406b6cc880800000000000000
+      internalID: -8589372327956252558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_83
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 876
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e283d9f76456c260800000000000000
+      internalID: 7117469066655400672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_84
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 856
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e97f6e92f3cbd10800000000000000
+      internalID: 2142656971922710043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_85
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 872
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa3493479eed8680800000000000000
+      internalID: -8751076167469745493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_86
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 867
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aea6739e4d22a30800000000000000
+      internalID: 4189144701530204815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_87
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 863
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a9dbaf07bafdf0800000000000000
+      internalID: -145602760000559657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_88
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 851
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794d5fb24d4ed0b70800000000000000
+      internalID: 8866994841284105367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_89
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 851
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c2540439c2c3450800000000000000
+      internalID: 6069775408738675748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_90
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 425
+        width: 215
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7322d48de8f5d310800000000000000
+      internalID: 1429322155779302271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_91
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 859
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07cd45ea05dac650800000000000000
+      internalID: 6254045275330823950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_92
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 857
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b8882846d9f270800000000000000
+      internalID: 8284888594930775490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_93
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 863
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443379ff16ff27760800000000000000
+      internalID: 7454301129616601924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_94
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 861
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aff31913bd508c50800000000000000
+      internalID: 6665430472309604263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_95
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 864
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabad5440163ac500800000000000000
+      internalID: 417205358979558314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_96
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 858
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc13d0f877e902c30800000000000000
+      internalID: 4332637077868720591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_97
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 438
+        width: 324
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a954451c49fdf70800000000000000
+      internalID: 9214246920686770773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 847
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1106679134d6e70800000000000000
+      internalID: 9110011397879632303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_99
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 850
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cde7c589d6c88540800000000000000
+      internalID: 5010473223004351943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_100
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 853
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3491d3ff6761f8f00800000000000000
+      internalID: 1121139532582689091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_101
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 847
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776d19e6cafd56620800000000000000
+      internalID: 2766863477771458167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_102
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 848
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27976107b89807900800000000000000
+      internalID: 680194775706925426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_103
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 848
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e2937b611325c30800000000000000
+      internalID: 4346590563998969388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_104
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 822
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f978ca7be3cbf10800000000000000
+      internalID: 2286771669391875855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_105
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 822
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efdca5ecc4147d90800000000000000
+      internalID: -7101027842197233688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_106
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 827
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeb1aa5ff611e700800000000000000
+      internalID: 567760314018414313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_107
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 813
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183be6203ebed7050800000000000000
+      internalID: 5800051255353979777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_108
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 807
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd893fa82d53e60800000000000000
+      internalID: 7941485012171939317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_109
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 790
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7529731eba2cf6a0800000000000000
+      internalID: -6414204773423569542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_110
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 801
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291c9c3a46fe32780800000000000000
+      internalID: -8708854038880730734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_111
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 801
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c743b1f397b7d20800000000000000
+      internalID: 3277346465788492855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_112
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 789
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f720e98b727f55990800000000000000
+      internalID: -7397735062913023361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_113
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 769
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9522832f5c1400800000000000000
+      internalID: 296216281611607632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_114
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 789
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2fd20f33c62dff0800000000000000
+      internalID: -12828878600015187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_115
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 788
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca3db8954f26e490800000000000000
+      internalID: -7717428935490979121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_116
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 782
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccee8f33e06f50060800000000000000
+      internalID: 6919206943386562252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_117
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 785
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f169d033d7c1f1b0800000000000000
+      internalID: -5624494749737459211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_118
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 789
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cd2604231c98ad0800000000000000
+      internalID: -2699414080059155355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_119
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 781
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ccd1816d3a29260800000000000000
+      internalID: 7102919702239628447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_120
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 786
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eff7c537a9bcba00800000000000000
+      internalID: 773697363813859299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_121
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 775
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cadc81b104f7f70800000000000000
+      internalID: 9187132249983528031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_122
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 777
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6732e395efe9a0800000000000000
+      internalID: -6201485738547646729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_123
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 780
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4185012e9c881a8d0800000000000000
+      internalID: -2836835889604175852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_124
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 764
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bd2ab39a6a01e80800000000000000
+      internalID: -8209878874916201679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_125
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 768
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f985c3adb833578d0800000000000000
+      internalID: -2849314513487112033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_126
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 767
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76cd9698ca8baaf0800000000000000
+      internalID: -384060749085030787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 759
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7019fe2e96fe03440800000000000000
+      internalID: 4913690431519166727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_128
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 757
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db4c49491bc3940800000000000000
+      internalID: 5277288115080576390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_129
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 751
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788b2e1319fd84de0800000000000000
+      internalID: -1348582273697269625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_130
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 734
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8d32823e3f032a0800000000000000
+      internalID: -6759634883726550795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 724
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d56c8b84cf90b70800000000000000
+      internalID: 8865894730723384661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_132
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 733
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f97833381b800c00800000000000000
+      internalID: 864844064509950450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_133
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 725
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc3a9cd61ecb4ef0800000000000000
+      internalID: -122777967236858625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_134
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 720
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d35ea8e46506c100800000000000000
+      internalID: 127795570385245141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_135
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 726
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6530ccbec63b64420800000000000000
+      internalID: 2613973914129007446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_136
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 699
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211043958ffcd9b70800000000000000
+      internalID: 8907504303564128530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_137
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 682
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc04dbedd28ee10800000000000000
+      internalID: 2227080450415841051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_138
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 682
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db4fc6a21ff5dfd0800000000000000
+      internalID: -2317665977639154727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_139
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 342
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7a3b6793955a40800000000000000
+      internalID: 5356349610375413084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_140
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 686
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9868fe3f5cecc7310800000000000000
+      internalID: 1404224533429192329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_141
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 672
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7c859bd4d9c46d0800000000000000
+      internalID: -3004853894215317571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_142
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 680
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518b2effdc949e400800000000000000
+      internalID: 353895194835466261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_143
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 682
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a8af3eafe8b1b30800000000000000
+      internalID: 4259155080826751604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_144
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 678
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ac96afb4a6be970800000000000000
+      internalID: 8785232372672612894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_145
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 675
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84e00363073bda20800000000000000
+      internalID: 3088122457178039439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_146
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 644
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4fa728bada92250800000000000000
+      internalID: 5920454137295336646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_147
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 640
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32563e4e81f43e810800000000000000
+      internalID: 1793364044961506595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_148
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 647
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d196c4270839e8f70800000000000000
+      internalID: 9191446069392468253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_149
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 643
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5a9afc1d3e81f30800000000000000
+      internalID: 4546634314102187463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_150
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 638
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423665fc669e48610800000000000000
+      internalID: 1622678393534702372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_151
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 629
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834f0e0c66c15b200800000000000000
+      internalID: 195093386508694584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_152
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 623
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abbbb2801ba49b70800000000000000
+      internalID: 8904930450619480992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_153
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 461
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c915a2020f51ab730800000000000000
+      internalID: 4015546138830197148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_154
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4faff5dbbe59a90800000000000000
+      internalID: -7307675621747133199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_155
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 626
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21088e9eaffbf8510800000000000000
+      internalID: 1553671480853168146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_156
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 617
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d73d7a5d6e330420800000000000000
+      internalID: 2594986449686050770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_157
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 609
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e20382d0d67bc990800000000000000
+      internalID: -7364662126377237784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_158
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1767550b77d0b4280800000000000000
+      internalID: -9058131417814960527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_159
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 584
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c929dcca78fd1d0800000000000000
+      internalID: -3323788823723074542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_160
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 591
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3a90854bd487bc0800000000000000
+      internalID: -3785190049838423086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_161
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 590
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec8b78e36682eab0800000000000000
+      internalID: -4980270474258051869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_162
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 592
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72157c5e8c00155d0800000000000000
+      internalID: -3075676207668834009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_163
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 589
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee201670b5eea3cd0800000000000000
+      internalID: -2577485761982954770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_164
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 586
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b38cab74d3292150800000000000000
+      internalID: 5848244986632242103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_165
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 584
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26e28e07b024f8a0800000000000000
+      internalID: -6272352410425694673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_166
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 578
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62601a2a3da45e710800000000000000
+      internalID: 1721864705366099494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_167
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 575
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6644ae9de37ff7de0800000000000000
+      internalID: -1333075115362335642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_168
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 581
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8665ab2d4746e80800000000000000
+      internalID: -8186289774234539806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_169
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 571
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fa26dce0dd64170800000000000000
+      internalID: 8162454430300680068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_170
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 577
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a35518ad58b86090800000000000000
+      internalID: -8040974422278581335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_171
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 570
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aad51a1ecd991710800000000000000
+      internalID: 1664535045816572581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_172
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 570
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f8a426f13919d40800000000000000
+      internalID: 5589410375545818923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_173
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 437
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f857ea7458ec100800000000000000
+      internalID: 130187982156435293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_174
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 323
+        width: 249
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9056e898229866570800000000000000
+      internalID: 8459599731491759369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_175
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 561
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d2a8cebfa6ae6e0800000000000000
+      internalID: -1807514670198018727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_176
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 561
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53e89ffecde7aa10800000000000000
+      internalID: 1920765239404061535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_177
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 520
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31434f09cdd0ea40800000000000000
+      internalID: 5395556209204085055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_178
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 341
+        width: 227
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4f6c8d1b2faa280800000000000000
+      internalID: -9031139257078057764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_179
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 524
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b68c43c8c7345fd0800000000000000
+      internalID: -2354195369798367559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_180
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 519
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989dd45a5679f7480800000000000000
+      internalID: -8899227875839977079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_181
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 521
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6f87b34dfc78320800000000000000
+      internalID: 2560243423621215973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_182
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 502
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e10befaa94a690800000000000000
+      internalID: -7591772991487089131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_183
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 496
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b0bde067b26ba0800000000000000
+      internalID: -6097109318573706546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_184
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 484
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dee7e825fbe5ba0800000000000000
+      internalID: -6098226484114166460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_185
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb47326bab9f3a10800000000000000
+      internalID: 1891401528908401646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_186
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 478
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ba59bfd3c604260800000000000000
+      internalID: 7079777627696114571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_187
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 482
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4b689a9c71e36b0800000000000000
+      internalID: -5314784355350563641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_188
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 472
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f1dcc1621157b90800000000000000
+      internalID: -7244865570165940446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_189
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 464
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e675725fde46ea090800000000000000
+      internalID: -8021362913117251730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_190
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 456
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6c3851f43de2b60800000000000000
+      internalID: 7723342747603814128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_191
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 473
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dcb6ac8e6c5d6e0800000000000000
+      internalID: -1813324571815981683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_192
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 459
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c10894f7e074eb0800000000000000
+      internalID: -4735800543300019137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_193
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edb219ad0a127860800000000000000
+      internalID: 7526106573262994917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_194
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 454
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c5421c1e0ba3350800000000000000
+      internalID: 5997300337451752534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_195
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 434
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e04702af7ae0b00800000000000000
+      internalID: 796758876819295824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_196
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 462
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b424792a3cc82a370800000000000000
+      internalID: 8332377032463172171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_197
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 460
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c4b4d10ff2984e0800000000000000
+      internalID: -1978997852922491853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_198
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 455
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f42580b84ab1f560800000000000000
+      internalID: 7345857288579917041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_199
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 455
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bf560480bc91700800000000000000
+      internalID: 511663268983864120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_200
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 461
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81518464e22c8b00800000000000000
+      internalID: 832078395490783628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_201
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 461
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3328fb64ad549b610800000000000000
+      internalID: 1637416743318028851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_202
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 447
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473cd4a3a870e5f00800000000000000
+      internalID: 1107330848644776820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_203
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 457
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0c9a2c1cee09570800000000000000
+      internalID: 8471533415045906661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_204
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 450
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b476cf65e67ae2b0800000000000000
+      internalID: -5554496462613220171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_205
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 445
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763c74c0b9d198900800000000000000
+      internalID: 687112969913877351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_206
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 449
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d519578d5e629efc0800000000000000
+      internalID: -3465195669663936163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_207
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 443
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8562f3120c85b2bf0800000000000000
+      internalID: -348086963976329640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_208
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 454
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0240d44987d7309d0800000000000000
+      internalID: -2809263785711434720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_209
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 451
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41ba5606f9a79a90800000000000000
+      internalID: -7307184996251684531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_210
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 449
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78d5f93fc9b82ef0800000000000000
+      internalID: -132651889325647745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_211
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 447
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d05d3458d7945a0800000000000000
+      internalID: -6536555372829405891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_212
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 438
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6501b7c929200c740800000000000000
+      internalID: 5170135200935120982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_213
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 439
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc06c4b0c507b9b0800000000000000
+      internalID: -5064572930730095420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_214
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 443
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c829db8adbf5a6b90800000000000000
+      internalID: -7247875382114938228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_215
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 362
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c577a4e32f7b0f8d0800000000000000
+      internalID: -2814547516051523748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_216
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 439
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3d923cef2802da0800000000000000
+      internalID: -5971629075185675353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_217
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 443
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d22a79987092610800000000000000
+      internalID: 1596815830415453569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_218
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 437
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a20caccaa36480800000000000000
+      internalID: -8907087841972803840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_219
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 338
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52644d577634774c0800000000000000
+      internalID: -4289886008409569755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_220
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 432
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb23d26b82bcc8600800000000000000
+      internalID: 471975436682605247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_221
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 338
+        width: 315
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d82d82e3e6756a80800000000000000
+      internalID: -8474236402697164583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_222
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 422
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6622120a711ad550800000000000000
+      internalID: 6186276253865223786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_223
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 427
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672ad6547e3e42ce0800000000000000
+      internalID: -1430768199155211658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_224
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 418
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61af77bca506a1ea0800000000000000
+      internalID: -5901298418638652906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_225
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 430
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea395ea0463a8220800000000000000
+      internalID: 2488861395506510566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_226
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 425
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b5b03d9995e7a0800000000000000
+      internalID: -6348499199302717084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_227
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8fb61b82a738bb0800000000000000
+      internalID: -4934966451474007889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_228
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 335
+        width: 133
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b32ad356157b25e0800000000000000
+      internalID: -1933322876268960848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_229
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 410
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751d299e0f74299c0800000000000000
+      internalID: -3921993225449844393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_230
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 414
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91147c059e483bc0800000000000000
+      internalID: -3803203483248356965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_231
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 408
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ebf2de63ecf7b80800000000000000
+      internalID: -8394764445092430332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_232
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 407
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b37dcfc441eea00800000000000000
+      internalID: 787589305728449317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_233
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 401
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df270ce0cf3d58e90800000000000000
+      internalID: -7023974964281707779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_234
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 413
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed70b7bc17985e0800000000000000
+      internalID: -1906867848458281284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_235
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 409
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409b156c864668860800000000000000
+      internalID: 7531817827990354180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_236
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3ffe4a2b3b22670800000000000000
+      internalID: 8512563825536398258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_237
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 410
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28d9d6b30c80dcc0800000000000000
+      internalID: -3688294147235915729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_238
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 416
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbd847dae9c25720800000000000000
+      internalID: 2833549126040869839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_239
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11177d49a20da1f0800000000000000
+      internalID: -1032165813425598178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_240
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 391
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c3b49e99ebf7d30800000000000000
+      internalID: 4431470126609153172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_241
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42f3dadafebe5970800000000000000
+      internalID: 8745637511022506570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_242
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc979c9cbed9c70800000000000000
+      internalID: 8979592483947794360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_243
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 338
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd091ef2bf2bf3030800000000000000
+      internalID: 3476694229263159519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_244
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 352
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88fbfcd39f395090800000000000000
+      internalID: -8045329355020437363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_245
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e16f98b322f69b90800000000000000
+      internalID: -7235329516088892958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_246
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ef3a28bd809fd20800000000000000
+      internalID: 3312688739790356052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_247
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b30e5714f250c0800000000000000
+      internalID: -4588336689138388045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_248
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 344
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea34f1d066dd9440800000000000000
+      internalID: 4944343677250321130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_249
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 343
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7628ed753fcc3580800000000000000
+      internalID: -8845967739409914245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_250
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 326
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b4f6fa3c1de92a0800000000000000
+      internalID: -6728710154852807865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_251
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32ad802057e3370800000000000000
+      internalID: 8304203414516671476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_252
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9460124c4719ee940800000000000000
+      internalID: 5327355339918607945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_253
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 327
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9a267e1499971f0800000000000000
+      internalID: -1046636930053002755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_254
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1b6e129c478d7d0800000000000000
+      internalID: -2893434353379528252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorWhite_255
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 330
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215d4c851efce60b0800000000000000
+      internalID: -5733416708832176878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

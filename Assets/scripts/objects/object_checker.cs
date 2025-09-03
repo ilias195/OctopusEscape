@@ -11,6 +11,7 @@ public class object_checker : MonoBehaviour
     [SerializeField] private GameObject closedSprite2;
     [SerializeField] private GameObject openSprite;
     public mouse_hover mouse_Hover;
+    [SerializeField] private BoxCollider2D boxCollider;
     private bool active = false;
     private void Start()
     {
@@ -42,6 +43,7 @@ public class object_checker : MonoBehaviour
             openSprite.SetActive(true);
             Destroy(closedSprite2);
             Destroy(closedSprite1);
+            Destroy(boxCollider);
         }
     }
 }

@@ -1,0 +1,2592 @@
+fileFormatVersion: 2
+guid: 74859cee7b31fd64a8d9579c5cd7d18a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -485905065026420379
+    second: openCrate_0
+  - first:
+      213: -8385456056142005826
+    second: openCrate_1
+  - first:
+      213: 3862249918273407520
+    second: openCrate_2
+  - first:
+      213: 8736463304417684120
+    second: openCrate_3
+  - first:
+      213: -5141580329750294598
+    second: openCrate_4
+  - first:
+      213: 1360930293387878097
+    second: openCrate_5
+  - first:
+      213: -1170885270252504674
+    second: openCrate_6
+  - first:
+      213: -3562244688429637772
+    second: openCrate_7
+  - first:
+      213: -2885223942719985486
+    second: openCrate_8
+  - first:
+      213: 2311164783448485818
+    second: openCrate_9
+  - first:
+      213: 3309707032040362393
+    second: openCrate_10
+  - first:
+      213: -4487550513715743728
+    second: openCrate_11
+  - first:
+      213: -7734160621802999324
+    second: openCrate_12
+  - first:
+      213: 615618517926641744
+    second: openCrate_13
+  - first:
+      213: -5664449723898063164
+    second: openCrate_14
+  - first:
+      213: 6693553853774020024
+    second: openCrate_15
+  - first:
+      213: -5917653819856327333
+    second: openCrate_16
+  - first:
+      213: -4778896220668467726
+    second: openCrate_17
+  - first:
+      213: 5454207425305310636
+    second: openCrate_18
+  - first:
+      213: 5907367124391893193
+    second: openCrate_19
+  - first:
+      213: -4074420444779244684
+    second: openCrate_20
+  - first:
+      213: -1727547489605084173
+    second: openCrate_21
+  - first:
+      213: -1657041936620760133
+    second: openCrate_22
+  - first:
+      213: -574728379915903902
+    second: openCrate_23
+  - first:
+      213: -7531331706374024406
+    second: openCrate_24
+  - first:
+      213: 4575804915437103470
+    second: openCrate_25
+  - first:
+      213: 8179920933125166764
+    second: openCrate_26
+  - first:
+      213: 7059037051411216088
+    second: openCrate_27
+  - first:
+      213: 2142815297428123779
+    second: openCrate_28
+  - first:
+      213: -5792314462053867470
+    second: openCrate_29
+  - first:
+      213: 3496938187436582553
+    second: openCrate_30
+  - first:
+      213: -468320949300532736
+    second: openCrate_31
+  - first:
+      213: -1250387018604781129
+    second: openCrate_32
+  - first:
+      213: -6984897554249759723
+    second: openCrate_33
+  - first:
+      213: -5567016869091227189
+    second: openCrate_34
+  - first:
+      213: 4813809738186593626
+    second: openCrate_35
+  - first:
+      213: -4741063705645001044
+    second: openCrate_36
+  - first:
+      213: 2215445464717785532
+    second: openCrate_37
+  - first:
+      213: -4912560898097927205
+    second: openCrate_38
+  - first:
+      213: 5882902982193535794
+    second: openCrate_39
+  - first:
+      213: -1522491004125875858
+    second: openCrate_40
+  - first:
+      213: -1287292323789814271
+    second: openCrate_41
+  - first:
+      213: -8608625857638027035
+    second: openCrate_42
+  - first:
+      213: -2933697048471155838
+    second: openCrate_43
+  - first:
+      213: 7944203426949177458
+    second: openCrate_44
+  - first:
+      213: 1816362462901714525
+    second: openCrate_45
+  - first:
+      213: 1759260529148442909
+    second: openCrate_46
+  - first:
+      213: -2459861752248973877
+    second: openCrate_47
+  - first:
+      213: -6003826268155025050
+    second: openCrate_48
+  - first:
+      213: -4968171787765246326
+    second: openCrate_49
+  - first:
+      213: -6616581112620756297
+    second: openCrate_50
+  - first:
+      213: 8833053548394226191
+    second: openCrate_51
+  - first:
+      213: 4767595189988394289
+    second: openCrate_52
+  - first:
+      213: -3444345469465930134
+    second: openCrate_53
+  - first:
+      213: -5338916516634357439
+    second: openCrate_54
+  - first:
+      213: -1890711370579601450
+    second: openCrate_55
+  - first:
+      213: -6831057228310122478
+    second: openCrate_56
+  - first:
+      213: -759223195136293339
+    second: openCrate_57
+  - first:
+      213: -4546750953460683994
+    second: openCrate_58
+  - first:
+      213: -836685002729199877
+    second: openCrate_59
+  - first:
+      213: -8461506260642710749
+    second: openCrate_60
+  - first:
+      213: -3817966281169264268
+    second: openCrate_61
+  - first:
+      213: 5261293644798554441
+    second: openCrate_62
+  - first:
+      213: 9189609018000156105
+    second: openCrate_63
+  - first:
+      213: 7421974392331863804
+    second: openCrate_64
+  - first:
+      213: -110892580901817596
+    second: openCrate_65
+  - first:
+      213: 301568436244035592
+    second: openCrate_66
+  - first:
+      213: -8572420952845988748
+    second: openCrate_67
+  - first:
+      213: 8719875053243154428
+    second: openCrate_68
+  - first:
+      213: -2063625227440238558
+    second: openCrate_69
+  - first:
+      213: -8467907167191110354
+    second: openCrate_70
+  - first:
+      213: -3457184869649724686
+    second: openCrate_71
+  - first:
+      213: -2276587768444777205
+    second: openCrate_72
+  - first:
+      213: -8597843678818802784
+    second: openCrate_73
+  - first:
+      213: 8979032005425511746
+    second: openCrate_74
+  - first:
+      213: 5514330791209509290
+    second: openCrate_75
+  - first:
+      213: 4669921195443911938
+    second: openCrate_76
+  - first:
+      213: 4771395179967642656
+    second: openCrate_77
+  - first:
+      213: 1724602065977136435
+    second: openCrate_78
+  - first:
+      213: -6274675140802921372
+    second: openCrate_79
+  - first:
+      213: -2215030248141014907
+    second: openCrate_80
+  - first:
+      213: 6616879252037867407
+    second: openCrate_81
+  - first:
+      213: -362508572212910760
+    second: openCrate_82
+  - first:
+      213: -1465843627594128827
+    second: openCrate_83
+  - first:
+      213: -8811766021383083041
+    second: openCrate_84
+  - first:
+      213: 3191313917054834346
+    second: openCrate_85
+  - first:
+      213: 6063334708931968261
+    second: openCrate_86
+  - first:
+      213: 1826325595703501622
+    second: openCrate_87
+  - first:
+      213: -2888411552711404542
+    second: openCrate_88
+  - first:
+      213: -8750507004612163122
+    second: openCrate_89
+  - first:
+      213: 2022634478727417240
+    second: openCrate_90
+  - first:
+      213: 3726928322393917560
+    second: openCrate_91
+  - first:
+      213: 1489147496103881120
+    second: openCrate_92
+  - first:
+      213: -2372724512098057104
+    second: openCrate_93
+  - first:
+      213: 8557392162817677299
+    second: openCrate_94
+  - first:
+      213: 7587214911603338358
+    second: openCrate_95
+  - first:
+      213: 2182746314993952673
+    second: openCrate_96
+  - first:
+      213: -4784932618152360821
+    second: openCrate_97
+  - first:
+      213: -4183849021011192406
+    second: openCrate_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: openCrate_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 340
+        width: 1045
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5618984fae7b149f0800000000000000
+      internalID: -485905065026420379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_1
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 470
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9f10e1520e0ab80800000000000000
+      internalID: -8385456056142005826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_2
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 655
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac77c66d7799530800000000000000
+      internalID: 3862249918273407520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_3
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 717
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a2d0d66172e3970800000000000000
+      internalID: 8736463304417684120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_4
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 678
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf091d6eef65a8b0800000000000000
+      internalID: -5141580329750294598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_5
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 663
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ded37d24eef2e210800000000000000
+      internalID: 1360930293387878097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_6
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 659
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99bcd1ec0e20cfe0800000000000000
+      internalID: -1170885270252504674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_7
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 591
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f1127545d509ec0800000000000000
+      internalID: -3562244688429637772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_8
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 720
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b829b45c10a5f7d0800000000000000
+      internalID: -2885223942719985486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_9
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 508
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfe6de1028e21020800000000000000
+      internalID: 2311164783448485818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_10
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 453
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991d06392017eed20800000000000000
+      internalID: 3309707032040362393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_11
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 706
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014f956759409b1c0800000000000000
+      internalID: -4487550513715743728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_12
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 531
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e13e9d44edbaa490800000000000000
+      internalID: -7734160621802999324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_13
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 680
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0508b26c7cd1b8800800000000000000
+      internalID: 615618517926641744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_14
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 675
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61ff6dcf4d361b0800000000000000
+      internalID: -5664449723898063164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_15
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 627
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdb52b14c744ec50800000000000000
+      internalID: 6693553853774020024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_16
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 690
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5deab3343540eda0800000000000000
+      internalID: -5917653819856327333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_17
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 556
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5699cf433fdadb0800000000000000
+      internalID: -4778896220668467726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_18
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 662
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5fe9471cc31bb40800000000000000
+      internalID: 5454207425305310636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_19
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 471
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8133fd91f2bf150800000000000000
+      internalID: 5907367124391893193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_20
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 349
+        width: 41
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47318535130c477c0800000000000000
+      internalID: -4074420444779244684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_21
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 507
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb987d06b48608e0800000000000000
+      internalID: -1727547489605084173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_22
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 521
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb35bc553210109e0800000000000000
+      internalID: -1657041936620760133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_23
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 672
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cd6c065972608f0800000000000000
+      internalID: -574728379915903902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_24
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 665
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2390fb37b55b7790800000000000000
+      internalID: -7531331706374024406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 671
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e696d12b356808f30800000000000000
+      internalID: 4575804915437103470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_26
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 840
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca615b5efbae48170800000000000000
+      internalID: 8179920933125166764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_27
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 665
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6bfa14cccb6f160800000000000000
+      internalID: 7059037051411216088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_28
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 561
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380f97ee82fccbd10800000000000000
+      internalID: 2142815297428123779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_29
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 548
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230ebed8fa09d9fa0800000000000000
+      internalID: -5792314462053867470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_30
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 542
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996e7aff0ce978030800000000000000
+      internalID: 3496938187436582553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_31
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 539
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a6110f3903089f0800000000000000
+      internalID: -468320949300532736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_32
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 723
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b16d44a1abb5aee0800000000000000
+      internalID: -1250387018604781129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_33
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 544
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514c2769ea8a01f90800000000000000
+      internalID: -6984897554249759723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_34
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 505
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9c53327abfdb2b0800000000000000
+      internalID: -5567016869091227189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_35
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 540
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a559de4c3761ec240800000000000000
+      internalID: 4813809738186593626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_36
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 577
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6588fcdab543eb0800000000000000
+      internalID: -4741063705645001044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_37
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 556
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9f0c789e7debe10800000000000000
+      internalID: 2215445464717785532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_38
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 526
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb266b14e313dbb0800000000000000
+      internalID: -4912560898097927205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_39
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 548
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b5bb5e71544a150800000000000000
+      internalID: 5882902982193535794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_40
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 343
+        width: 119
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61795d8f760fdae0800000000000000
+      internalID: -1522491004125875858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_41
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 718
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106cb6ea37e922ee0800000000000000
+      internalID: -1287292323789814271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_42
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 482
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e03e379464088880800000000000000
+      internalID: -8608625857638027035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_43
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 562
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bc34be31a6947d0800000000000000
+      internalID: -2933697048471155838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_44
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 642
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2702fb63dea7f3e60800000000000000
+      internalID: 7944203426949177458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_45
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 692
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e3c985904053910800000000000000
+      internalID: 1816362462901714525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_46
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 708
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19324b51262a6810800000000000000
+      internalID: 1759260529148442909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_47
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 692
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc541ace4c0dcddd0800000000000000
+      internalID: -2459861752248973877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_48
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 577
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669e57991df1eaca0800000000000000
+      internalID: -6003826268155025050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_49
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 347
+        width: 83
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86922fd4128d0bb0800000000000000
+      internalID: -4968171787765246326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_50
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 707
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b25ea2c88e2d24a0800000000000000
+      internalID: -6616581112620756297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_51
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 663
+        width: 170
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02aa0a176f459a70800000000000000
+      internalID: 8833053548394226191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_52
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 712
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1358e14c096e92240800000000000000
+      internalID: 4767595189988394289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_53
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 672
+        width: 98
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66d1c06b0a3330d0800000000000000
+      internalID: -3444345469465930134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_54
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 344
+        width: 182
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1411b8407bb58e5b0800000000000000
+      internalID: -5338916516634357439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_55
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 516
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79fcf9608d2c5e0800000000000000
+      internalID: -1890711370579601450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_56
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 361
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210f532b4a53331a0800000000000000
+      internalID: -6831057228310122478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_57
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 498
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5260aacc682b675f0800000000000000
+      internalID: -759223195136293339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_58
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 495
+        width: 231
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62baec8f812b6e0c0800000000000000
+      internalID: -4546750953460683994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_59
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1028
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6ed674c6f7364f0800000000000000
+      internalID: -836685002729199877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_60
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1022
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bb5ad03e0b29a80800000000000000
+      internalID: -8461506260642710749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_61
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 837
+        width: 39
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ac7e45ebd30bc0800000000000000
+      internalID: -3817966281169264268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_62
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 832
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941fc35c1bed30940800000000000000
+      internalID: 5261293644798554441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_63
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 809
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c520a696bc088f70800000000000000
+      internalID: 9189609018000156105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_64
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1027
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf68cf2f266200760800000000000000
+      internalID: 7421974392331863804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_65
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1016
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403fe1309c7067ef0800000000000000
+      internalID: -110892580901817596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_66
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 1642
+        width: 308
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808bbcd15e26f2400800000000000000
+      internalID: 301568436244035592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_67
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 984
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ccf70ef84a80980800000000000000
+      internalID: -8572420952845988748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_68
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 994
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff395a3928330970800000000000000
+      internalID: 8719875053243154428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_69
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1730
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220d3e80ac78c53e0800000000000000
+      internalID: -2063625227440238558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_70
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1706
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2de69cdb43fb7a80800000000000000
+      internalID: -8467907167191110354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_71
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 1734
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa4ca19dac9500d0800000000000000
+      internalID: -3457184869649724686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_72
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1717
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d89d98c7fe760e0800000000000000
+      internalID: -2276587768444777205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_73
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1680
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3eaa93ab25ea880800000000000000
+      internalID: -8597843678818802784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_74
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 1735
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d3046390eeb9c70800000000000000
+      internalID: 8979032005425511746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_75
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 495
+        width: 385
+        height: 1249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1aa0073a6d68c40800000000000000
+      internalID: 5514330791209509290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_76
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 1564
+        width: 164
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d708fb594eec040800000000000000
+      internalID: 4669921195443911938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_77
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 521
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c7bf0e2a6673240800000000000000
+      internalID: 4771395179967642656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_78
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 590
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335d87111740fe710800000000000000
+      internalID: 1724602065977136435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_79
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 509
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cb77f3430ebe8a0800000000000000
+      internalID: -6274675140802921372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_80
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 495
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5883fcc99b1a241e0800000000000000
+      internalID: -2215030248141014907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_81
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 542
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f879e5b3f90e3db50800000000000000
+      internalID: 6616879252037867407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_82
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 515
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855273dcf5c18faf0800000000000000
+      internalID: -362508572212910760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_83
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 608
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5426bf0bcf648abe0800000000000000
+      internalID: -1465843627594128827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_84
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 594
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbaa938d7156b580800000000000000
+      internalID: -8811766021383083041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_85
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 573
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa650d86913d94c20800000000000000
+      internalID: 3191313917054834346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_86
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 564
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dbf28faca452450800000000000000
+      internalID: 6063334708931968261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_87
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 502
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6336c18f379685910800000000000000
+      internalID: 1826325595703501622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_88
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 589
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204908b0ffc4ae7d0800000000000000
+      internalID: -2888411552711404542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_89
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 549
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec94681dd34ff8680800000000000000
+      internalID: -8750507004612163122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_90
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 523
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d410f8757d11c10800000000000000
+      internalID: 2022634478727417240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_91
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 516
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878c1a72095b8b330800000000000000
+      internalID: 3726928322393917560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_92
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 577
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a92f6302c38aa410800000000000000
+      internalID: 1489147496103881120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_93
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 569
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0748882a0a3621fd0800000000000000
+      internalID: -2372724512098057104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_94
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 457
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7957445d6f1c670800000000000000
+      internalID: 8557392162817677299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_95
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 463
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ce9a863c33b4960800000000000000
+      internalID: 7587214911603338358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_96
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 471
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7e104753caa4e10800000000000000
+      internalID: 2182746314993952673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_97
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 342
+        width: 36
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8449dca221889db0800000000000000
+      internalID: -4784932618152360821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: openCrate_98
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 342
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa513cc7b7bffe5c0800000000000000
+      internalID: -4183849021011192406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

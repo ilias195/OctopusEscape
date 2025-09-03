@@ -1,0 +1,3653 @@
+fileFormatVersion: 2
+guid: 0b36e97aa8fc79a43937de8141ace392
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6676249213690617342
+    second: armoire_0
+  - first:
+      213: -1401847120641786620
+    second: armoire_1
+  - first:
+      213: 8227946717428555847
+    second: armoire_2
+  - first:
+      213: 3847675951904732813
+    second: armoire_3
+  - first:
+      213: 2835049617559115822
+    second: armoire_4
+  - first:
+      213: -8537242590170006809
+    second: armoire_5
+  - first:
+      213: 4878967146637705953
+    second: armoire_6
+  - first:
+      213: -8344599645703452518
+    second: armoire_7
+  - first:
+      213: -8116470692856225169
+    second: armoire_8
+  - first:
+      213: 5849558801978690099
+    second: armoire_9
+  - first:
+      213: -3335487774180020765
+    second: armoire_10
+  - first:
+      213: -3902717426023566819
+    second: armoire_11
+  - first:
+      213: 751494857640854987
+    second: armoire_12
+  - first:
+      213: -993969437176438338
+    second: armoire_13
+  - first:
+      213: -1265014489787820349
+    second: armoire_14
+  - first:
+      213: 2901330033073936670
+    second: armoire_15
+  - first:
+      213: 284505630117155141
+    second: armoire_16
+  - first:
+      213: 3826520876856706242
+    second: armoire_17
+  - first:
+      213: -2889519215043626936
+    second: armoire_18
+  - first:
+      213: 63210084771516373
+    second: armoire_19
+  - first:
+      213: -3262806528870358410
+    second: armoire_20
+  - first:
+      213: 7906216820896157380
+    second: armoire_21
+  - first:
+      213: -3519627274947100617
+    second: armoire_22
+  - first:
+      213: 3562271775572616705
+    second: armoire_23
+  - first:
+      213: -992827980304177205
+    second: armoire_24
+  - first:
+      213: 2459189241039461438
+    second: armoire_25
+  - first:
+      213: -1598522502635237941
+    second: armoire_26
+  - first:
+      213: 5163236360134975358
+    second: armoire_27
+  - first:
+      213: 1466151607070428487
+    second: armoire_28
+  - first:
+      213: -5430843671281611561
+    second: armoire_29
+  - first:
+      213: 2635674941581526956
+    second: armoire_30
+  - first:
+      213: -1478206164996157805
+    second: armoire_31
+  - first:
+      213: 2688003469114649930
+    second: armoire_32
+  - first:
+      213: -7735615158929613506
+    second: armoire_33
+  - first:
+      213: -1161239076199908216
+    second: armoire_34
+  - first:
+      213: -189715171905059165
+    second: armoire_35
+  - first:
+      213: 4157622565380917142
+    second: armoire_36
+  - first:
+      213: -4758724607146918994
+    second: armoire_37
+  - first:
+      213: -3983704974506407739
+    second: armoire_38
+  - first:
+      213: -5495767105293742116
+    second: armoire_39
+  - first:
+      213: -4935116710684367278
+    second: armoire_40
+  - first:
+      213: -6393730910965322393
+    second: armoire_41
+  - first:
+      213: 8455643903231262374
+    second: armoire_42
+  - first:
+      213: 3367682255332569122
+    second: armoire_43
+  - first:
+      213: 3041957230657389009
+    second: armoire_44
+  - first:
+      213: -5666132394043769747
+    second: armoire_45
+  - first:
+      213: 3501872761051416481
+    second: armoire_46
+  - first:
+      213: -6977546137135543129
+    second: armoire_47
+  - first:
+      213: -392549472612557361
+    second: armoire_48
+  - first:
+      213: -4645037421604653203
+    second: armoire_49
+  - first:
+      213: 6101390532135682935
+    second: armoire_50
+  - first:
+      213: -634897939914271184
+    second: armoire_51
+  - first:
+      213: -8719334511017806602
+    second: armoire_52
+  - first:
+      213: 4908757977892979030
+    second: armoire_53
+  - first:
+      213: -9124342746094604752
+    second: armoire_54
+  - first:
+      213: 7452076880554242696
+    second: armoire_55
+  - first:
+      213: 2207707657165610592
+    second: armoire_56
+  - first:
+      213: -189023582244159106
+    second: armoire_57
+  - first:
+      213: 6954258020132104423
+    second: armoire_58
+  - first:
+      213: -2012738376355654240
+    second: armoire_59
+  - first:
+      213: 1823985042586444279
+    second: armoire_60
+  - first:
+      213: -8572577445485892626
+    second: armoire_61
+  - first:
+      213: 1696977396105747958
+    second: armoire_62
+  - first:
+      213: 7853194799425483280
+    second: armoire_63
+  - first:
+      213: 9199816262588412667
+    second: armoire_64
+  - first:
+      213: 8752539802081324526
+    second: armoire_65
+  - first:
+      213: 4366237794530516997
+    second: armoire_66
+  - first:
+      213: -3187673482371618872
+    second: armoire_67
+  - first:
+      213: 4609358454628745493
+    second: armoire_68
+  - first:
+      213: -7445694383086072468
+    second: armoire_69
+  - first:
+      213: -5108293858947190794
+    second: armoire_70
+  - first:
+      213: -2867126225158265857
+    second: armoire_71
+  - first:
+      213: -8366474117867839207
+    second: armoire_72
+  - first:
+      213: -7500798924989765513
+    second: armoire_73
+  - first:
+      213: -8869528122986714600
+    second: armoire_74
+  - first:
+      213: -1219127452457607879
+    second: armoire_75
+  - first:
+      213: -8606203604603973369
+    second: armoire_76
+  - first:
+      213: 3370788129815068524
+    second: armoire_77
+  - first:
+      213: -3843059589988222519
+    second: armoire_78
+  - first:
+      213: -1398517818983711072
+    second: armoire_79
+  - first:
+      213: 1145590893776945979
+    second: armoire_80
+  - first:
+      213: -6010811038021756720
+    second: armoire_81
+  - first:
+      213: -5859767960874083664
+    second: armoire_82
+  - first:
+      213: -8017738156617086520
+    second: armoire_83
+  - first:
+      213: -2435618865285038313
+    second: armoire_84
+  - first:
+      213: -1993078005026032563
+    second: armoire_85
+  - first:
+      213: -7085099427521480558
+    second: armoire_86
+  - first:
+      213: 1033475944725813018
+    second: armoire_87
+  - first:
+      213: -2923827733866770824
+    second: armoire_88
+  - first:
+      213: -3019826334764772828
+    second: armoire_89
+  - first:
+      213: 7854150746409668336
+    second: armoire_90
+  - first:
+      213: -1332178659204740993
+    second: armoire_91
+  - first:
+      213: -4263059400012985346
+    second: armoire_92
+  - first:
+      213: -9082609656892320048
+    second: armoire_93
+  - first:
+      213: -3982335228170071152
+    second: armoire_94
+  - first:
+      213: 2297006480462612569
+    second: armoire_95
+  - first:
+      213: -8174942089559647882
+    second: armoire_96
+  - first:
+      213: -2350817775236587227
+    second: armoire_97
+  - first:
+      213: -5632599966786989075
+    second: armoire_98
+  - first:
+      213: -6899209387899875773
+    second: armoire_99
+  - first:
+      213: -2643802737609404352
+    second: armoire_100
+  - first:
+      213: -7366959487087888574
+    second: armoire_101
+  - first:
+      213: 4423868512975691337
+    second: armoire_102
+  - first:
+      213: 5798114604421141378
+    second: armoire_103
+  - first:
+      213: -5382363454232081602
+    second: armoire_104
+  - first:
+      213: 3553139143086530969
+    second: armoire_105
+  - first:
+      213: -8224050855733297478
+    second: armoire_106
+  - first:
+      213: 1805655833976643108
+    second: armoire_107
+  - first:
+      213: 7065658077082083938
+    second: armoire_108
+  - first:
+      213: -2882489577112882106
+    second: armoire_109
+  - first:
+      213: -412789446295326917
+    second: armoire_110
+  - first:
+      213: 4782738615334000424
+    second: armoire_111
+  - first:
+      213: 8110914004777064907
+    second: armoire_112
+  - first:
+      213: 5184511915649093826
+    second: armoire_113
+  - first:
+      213: -7991658307653066800
+    second: armoire_114
+  - first:
+      213: 4958857009224036106
+    second: armoire_115
+  - first:
+      213: -2816423355222946751
+    second: armoire_116
+  - first:
+      213: 7782885200540710157
+    second: armoire_117
+  - first:
+      213: 7109822351847704785
+    second: armoire_118
+  - first:
+      213: -4731391428667072305
+    second: armoire_119
+  - first:
+      213: 1686807039572935866
+    second: armoire_120
+  - first:
+      213: 2581669579045225261
+    second: armoire_121
+  - first:
+      213: 1530366152570455022
+    second: armoire_122
+  - first:
+      213: -7455876794743494203
+    second: armoire_123
+  - first:
+      213: 60775401556959922
+    second: armoire_124
+  - first:
+      213: 2354440519098344152
+    second: armoire_125
+  - first:
+      213: 3955807363828001276
+    second: armoire_126
+  - first:
+      213: 7116220745603451195
+    second: armoire_127
+  - first:
+      213: -8406056044926497925
+    second: armoire_128
+  - first:
+      213: 3620641646020613001
+    second: armoire_129
+  - first:
+      213: 3306598399335006933
+    second: armoire_130
+  - first:
+      213: 1484102502595356549
+    second: armoire_131
+  - first:
+      213: 4616854175967039532
+    second: armoire_132
+  - first:
+      213: -4044742898143633537
+    second: armoire_133
+  - first:
+      213: -9130253848643044129
+    second: armoire_134
+  - first:
+      213: -2861928429146273224
+    second: armoire_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armoire_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1539
+        width: 288
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd920e994dc6ac50800000000000000
+      internalID: 6676249213690617342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1768
+        width: 171
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dfdb89873ab8ce0800000000000000
+      internalID: -1401847120641786620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1425
+        width: 55
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740ab2b22f98f2270800000000000000
+      internalID: 8227946717428555847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1353
+        width: 181
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86381474e0b56530800000000000000
+      internalID: 3847675951904732813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1677
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28d73f3b9e185720800000000000000
+      internalID: 2835049617559115822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1343
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eab493b81f958980800000000000000
+      internalID: -8537242590170006809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1677
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2442e15c295b340800000000000000
+      internalID: 4878967146637705953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1721
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98cef475d6023c80800000000000000
+      internalID: -8344599645703452518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1721
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62af6268e08c5f80800000000000000
+      internalID: -8116470692856225169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1729
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a03b4fcbecd2150800000000000000
+      internalID: 5849558801978690099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 340
+        width: 691
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6753aa87f5b1d0800000000000000
+      internalID: -3335487774180020765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_11
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 322
+        width: 801
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d127323bd23c6d9c0800000000000000
+      internalID: -3902717426023566819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_12
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 495
+        width: 456
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc547386798dd6a00800000000000000
+      internalID: 751494857640854987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_13
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 494
+        width: 62
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1e08b2016b432f0800000000000000
+      internalID: -993969437176438338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_14
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1281
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6997c1604c17ee0800000000000000
+      internalID: -1265014489787820349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_15
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1272
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e195b8d0b48934820800000000000000
+      internalID: 2901330033073936670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_16
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 939
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5415bbbfc54c2f300800000000000000
+      internalID: 284505630117155141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_17
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 906
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c409a6b6788a1530800000000000000
+      internalID: 3826520876856706242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_18
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 889
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848b8af459d56e7d0800000000000000
+      internalID: -2889519215043626936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_19
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 866
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df4709bc3190e000800000000000000
+      internalID: 63210084771516373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_20
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 848
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726bd3cfbe28b2d0800000000000000
+      internalID: -3262806528870358410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_21
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1048
+        width: 181
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cecbb64f4688bd60800000000000000
+      internalID: 7906216820896157380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_22
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 1240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730800724a5c72fc0800000000000000
+      internalID: -3519627274947100617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_23
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 1198
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e7606e4bbf6130800000000000000
+      internalID: 3562271775572616705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_24
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1078
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7a6ee4634c832f0800000000000000
+      internalID: -992827980304177205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_25
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1087
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c9e9bd59bc02220800000000000000
+      internalID: 2459189241039461438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_26
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 1075
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd45f0d048e0d9e0800000000000000
+      internalID: -1598522502635237941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_27
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 1075
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fd9311d1087a740800000000000000
+      internalID: 5163236360134975358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_28
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1078
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d0d4e5e11d85410800000000000000
+      internalID: 1466151607070428487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_29
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 1074
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc49e6474c1a4b0800000000000000
+      internalID: -5430843671281611561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_30
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 1158
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca78d5c156cc39420800000000000000
+      internalID: 2635674941581526956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_31
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1173
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e8c96235b5c7be0800000000000000
+      internalID: -1478206164996157805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_32
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1208
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4da89bd9e4bd4520800000000000000
+      internalID: 2688003469114649930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_33
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d9fdc7ff295a490800000000000000
+      internalID: -7735615158929613506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_34
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1734
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c3dc3763372efe0800000000000000
+      internalID: -1161239076199908216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_35
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 1695
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6c81a6e0ffd5df0800000000000000
+      internalID: -189715171905059165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_36
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1727
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6978da7f1b7d2b930800000000000000
+      internalID: 4157622565380917142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_37
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1656
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabf81fbe2d95fdb0800000000000000
+      internalID: -4758724607146918994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_38
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 728
+        width: 342
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8c698ae6907b8c0800000000000000
+      internalID: -3983704974506407739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_39
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 845
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf80b08fec1bb3b0800000000000000
+      internalID: -5495767105293742116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_40
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 1691
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256609ebf71f28bb0800000000000000
+      internalID: -4935116710684367278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_41
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 1735
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d2a76ac97e447a0800000000000000
+      internalID: -6393730910965322393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_42
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1661
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aefb4f745b785570800000000000000
+      internalID: 8455643903231262374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_43
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220fb712b296cbe20800000000000000
+      internalID: 3367682255332569122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_44
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 1737
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1c34bfbf3373a20800000000000000
+      internalID: 3041957230657389009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_45
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 1719
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cffaaab9add51b0800000000000000
+      internalID: -5666132394043769747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_46
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1734
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a70613f8b6299030800000000000000
+      internalID: 3501872761051416481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_47
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1736
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac0324c1c6ca2f90800000000000000
+      internalID: -6977546137135543129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_48
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1679
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd5920a5526d8af0800000000000000
+      internalID: -392549472612557361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_49
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1726
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67bbd45313898fb0800000000000000
+      internalID: -4645037421604653203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_50
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1728
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77301e7cc5e7ca450800000000000000
+      internalID: 6101390532135682935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_51
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1663
+        width: 190
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03658ceffa36037f0800000000000000
+      internalID: -634897939914271184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_52
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 1708
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4baf09573bef680800000000000000
+      internalID: -8719334511017806602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_53
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 1468
+        width: 83
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6510da88f596f1440800000000000000
+      internalID: 4908757977892979030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_54
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1719
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e6e128d92df5180800000000000000
+      internalID: -9124342746094604752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_55
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 1703
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8823658a0781b6760800000000000000
+      internalID: 7452076880554242696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_56
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 495
+        width: 70
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e1441da6a53ae10800000000000000
+      internalID: 2207707657165610592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_57
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 1040
+        width: 46
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e714a2ead04706df0800000000000000
+      internalID: -189023582244159106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_58
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 1286
+        width: 40
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8a266f2dc728060800000000000000
+      internalID: 6954258020132104423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_59
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 939
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a556835c115114e0800000000000000
+      internalID: -2012738376355654240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_60
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1466
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1adfa7bb8105910800000000000000
+      internalID: 1823985042586444279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_61
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 856
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeba9489b36180980800000000000000
+      internalID: -8572577445485892626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_62
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 846
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd10c663ffdc8710800000000000000
+      internalID: 1696977396105747958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_63
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1037
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01273b3ef072cfc60800000000000000
+      internalID: 7853194799425483280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_64
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 854
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2b17ae5205caf70800000000000000
+      internalID: 9199816262588412667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_65
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1433
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed6689b394477970800000000000000
+      internalID: 8752539802081324526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_66
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 1449
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50060eb042ef79c30800000000000000
+      internalID: 4366237794530516997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_67
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 1085
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7ae475bdb13c3d0800000000000000
+      internalID: -3187673482371618872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_68
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 1058
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5110792d71bb7ff30800000000000000
+      internalID: 4609358454628745493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_69
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 1051
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d880658649ba890800000000000000
+      internalID: -7445694383086072468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_70
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1440
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffa429dcc1bb19b0800000000000000
+      internalID: -5108293858947190794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_71
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 1079
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff32c3f83ebe538d0800000000000000
+      internalID: -2867126225158265857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_72
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 693
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ecf50e1054eb80800000000000000
+      internalID: -8366474117867839207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_73
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 689
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7786a506e1fc7e790800000000000000
+      internalID: -7500798924989765513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_74
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 686
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a2a083a2b19e480800000000000000
+      internalID: -8869528122986714600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_75
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 683
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d565c8a0ac41fe0800000000000000
+      internalID: -1219127452457607879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_76
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 678
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701d4e25b6f909880800000000000000
+      internalID: -8606203604603973369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_77
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 672
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ffab2e1f177ce20800000000000000
+      internalID: 3370788129815068524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_78
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 510
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9f7101aa5baaac0800000000000000
+      internalID: -3843059589988222519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_79
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 319
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aefb6b0477779ce0800000000000000
+      internalID: -1398517818983711072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_80
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 495
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334f7929d4f5ef00800000000000000
+      internalID: 1145590893776945979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_81
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 502
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d857b2253f459ca0800000000000000
+      internalID: -6010811038021756720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_82
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 486
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba92e1061cedaea0800000000000000
+      internalID: -5859767960874083664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_83
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 481
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c94eb850a54bb090800000000000000
+      internalID: -8017738156617086520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_84
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 484
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ff176eb81f23ed0800000000000000
+      internalID: -2435618865285038313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 491
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4477cc3d1a2754e0800000000000000
+      internalID: -1993078005026032563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_86
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 476
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2983240fb9bacad90800000000000000
+      internalID: -7085099427521480558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_87
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 473
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a171b4965e4a75e00800000000000000
+      internalID: 1033475944725813018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_88
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 477
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e8f6aca2a7c67d0800000000000000
+      internalID: -2923827733866770824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_89
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 477
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422d9f0c2fb6716d0800000000000000
+      internalID: -3019826334764772828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_90
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 476
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe0e14ad7c8ffc60800000000000000
+      internalID: 7854150746409668336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_91
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 480
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78ceb05196238de0800000000000000
+      internalID: -1332178659204740993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_92
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 472
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb06d5ff0296d4c0800000000000000
+      internalID: -4263059400012985346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_93
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 472
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6966783a614f180800000000000000
+      internalID: -9082609656892320048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_94
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 475
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09316649537ebb8c0800000000000000
+      internalID: -3982335228170071152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_95
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 469
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9588eb2593b90ef10800000000000000
+      internalID: 2297006480462612569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_96
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 466
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67958647b75cc8e80800000000000000
+      internalID: -8174942089559647882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_97
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 451
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521695740b7306fd0800000000000000
+      internalID: -2350817775236587227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_98
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 470
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3d8c94c2cf4d1b0800000000000000
+      internalID: -5632599966786989075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_99
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 464
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e00338d951140a0800000000000000
+      internalID: -6899209387899875773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_100
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 469
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0401698ea635f4bd0800000000000000
+      internalID: -2643802737609404352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_101
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 465
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247be69d06d43c990800000000000000
+      internalID: -7366959487087888574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_102
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 469
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e93f059fcb46d30800000000000000
+      internalID: 4423868512975691337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_103
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 451
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283d683538a077050800000000000000
+      internalID: 5798114604421141378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_104
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 458
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bc37294f00e45b0800000000000000
+      internalID: -5382363454232081602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_105
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 464
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991653da9394f4130800000000000000
+      internalID: 3553139143086530969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_106
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 445
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abef441d15d4edd80800000000000000
+      internalID: -8224050855733297478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_107
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 340
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e1aca0a6afe0910800000000000000
+      internalID: 1805655833976643108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_108
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 460
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e8dce5924e0260800000000000000
+      internalID: 7065658077082083938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_109
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 459
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644bb6f60075ff7d0800000000000000
+      internalID: -2882489577112882106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_110
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 454
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f69868f2a754af0800000000000000
+      internalID: -412789446295326917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_111
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 340
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827d68c3e63bf5240800000000000000
+      internalID: 4782738615334000424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_112
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 445
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95a7a5051cf8070800000000000000
+      internalID: 8110914004777064907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_113
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 421
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c05b0a5e1613f740800000000000000
+      internalID: 5184511915649093826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_114
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 414
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df1a0e5c1de71190800000000000000
+      internalID: -7991658307653066800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_115
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 427
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f21ce3d2661d440800000000000000
+      internalID: 4958857009224036106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_116
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 420
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c82d661ed0ae8d0800000000000000
+      internalID: -2816423355222946751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_117
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 415
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05bfd9badc520c60800000000000000
+      internalID: 7782885200540710157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_118
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 407
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8c30272c92ba260800000000000000
+      internalID: 7109822351847704785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_119
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0a8f84098b65eb0800000000000000
+      internalID: -4731391428667072305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_120
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 416
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab48f5eb01eb86710800000000000000
+      internalID: 1686807039572935866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_121
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 410
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d234c6acdcee3d320800000000000000
+      internalID: 2581669579045225261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_122
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 408
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee34e3458e3fc3510800000000000000
+      internalID: 1530366152570455022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_123
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 392
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c96c30ee87678890800000000000000
+      internalID: -7455876794743494203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_124
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 399
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b262ecd7eae7d000800000000000000
+      internalID: 60775401556959922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_125
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 396
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2a4a18d27aca020800000000000000
+      internalID: 2354440519098344152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_126
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a7d0b6d9d5e630800000000000000
+      internalID: 3955807363828001276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_127
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 392
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3985f49015e1c260800000000000000
+      internalID: 7116220745603451195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_128
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 388
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b81287090b75b80800000000000000
+      internalID: -8406056044926497925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_129
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 383
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9835b02e46a1f3230800000000000000
+      internalID: 3620641646020613001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_130
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 342
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d20d3f99b563ed20800000000000000
+      internalID: 3306598399335006933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_131
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 388
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e67dec57989410800000000000000
+      internalID: 1484102502595356549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_132
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 389
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c205b42796c521040800000000000000
+      internalID: 4616854175967039532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_133
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 389
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f5d5c93cf2ed7c0800000000000000
+      internalID: -4044742898143633537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_134
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 342
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcfc72bf72da4180800000000000000
+      internalID: -9130253848643044129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armoire_135
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 361
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a0520c1436848d0800000000000000
+      internalID: -2861928429146273224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      armoire_0: 6676249213690617342
+      armoire_1: -1401847120641786620
+      armoire_10: -3335487774180020765
+      armoire_100: -2643802737609404352
+      armoire_101: -7366959487087888574
+      armoire_102: 4423868512975691337
+      armoire_103: 5798114604421141378
+      armoire_104: -5382363454232081602
+      armoire_105: 3553139143086530969
+      armoire_106: -8224050855733297478
+      armoire_107: 1805655833976643108
+      armoire_108: 7065658077082083938
+      armoire_109: -2882489577112882106
+      armoire_11: -3902717426023566819
+      armoire_110: -412789446295326917
+      armoire_111: 4782738615334000424
+      armoire_112: 8110914004777064907
+      armoire_113: 5184511915649093826
+      armoire_114: -7991658307653066800
+      armoire_115: 4958857009224036106
+      armoire_116: -2816423355222946751
+      armoire_117: 7782885200540710157
+      armoire_118: 7109822351847704785
+      armoire_119: -4731391428667072305
+      armoire_12: 751494857640854987
+      armoire_120: 1686807039572935866
+      armoire_121: 2581669579045225261
+      armoire_122: 1530366152570455022
+      armoire_123: -7455876794743494203
+      armoire_124: 60775401556959922
+      armoire_125: 2354440519098344152
+      armoire_126: 3955807363828001276
+      armoire_127: 7116220745603451195
+      armoire_128: -8406056044926497925
+      armoire_129: 3620641646020613001
+      armoire_13: -993969437176438338
+      armoire_130: 3306598399335006933
+      armoire_131: 1484102502595356549
+      armoire_132: 4616854175967039532
+      armoire_133: -4044742898143633537
+      armoire_134: -9130253848643044129
+      armoire_135: -2861928429146273224
+      armoire_14: -1265014489787820349
+      armoire_15: 2901330033073936670
+      armoire_16: 284505630117155141
+      armoire_17: 3826520876856706242
+      armoire_18: -2889519215043626936
+      armoire_19: 63210084771516373
+      armoire_2: 8227946717428555847
+      armoire_20: -3262806528870358410
+      armoire_21: 7906216820896157380
+      armoire_22: -3519627274947100617
+      armoire_23: 3562271775572616705
+      armoire_24: -992827980304177205
+      armoire_25: 2459189241039461438
+      armoire_26: -1598522502635237941
+      armoire_27: 5163236360134975358
+      armoire_28: 1466151607070428487
+      armoire_29: -5430843671281611561
+      armoire_3: 3847675951904732813
+      armoire_30: 2635674941581526956
+      armoire_31: -1478206164996157805
+      armoire_32: 2688003469114649930
+      armoire_33: -7735615158929613506
+      armoire_34: -1161239076199908216
+      armoire_35: -189715171905059165
+      armoire_36: 4157622565380917142
+      armoire_37: -4758724607146918994
+      armoire_38: -3983704974506407739
+      armoire_39: -5495767105293742116
+      armoire_4: 2835049617559115822
+      armoire_40: -4935116710684367278
+      armoire_41: -6393730910965322393
+      armoire_42: 8455643903231262374
+      armoire_43: 3367682255332569122
+      armoire_44: 3041957230657389009
+      armoire_45: -5666132394043769747
+      armoire_46: 3501872761051416481
+      armoire_47: -6977546137135543129
+      armoire_48: -392549472612557361
+      armoire_49: -4645037421604653203
+      armoire_5: -8537242590170006809
+      armoire_50: 6101390532135682935
+      armoire_51: -634897939914271184
+      armoire_52: -8719334511017806602
+      armoire_53: 4908757977892979030
+      armoire_54: -9124342746094604752
+      armoire_55: 7452076880554242696
+      armoire_56: 2207707657165610592
+      armoire_57: -189023582244159106
+      armoire_58: 6954258020132104423
+      armoire_59: -2012738376355654240
+      armoire_6: 4878967146637705953
+      armoire_60: 1823985042586444279
+      armoire_61: -8572577445485892626
+      armoire_62: 1696977396105747958
+      armoire_63: 7853194799425483280
+      armoire_64: 9199816262588412667
+      armoire_65: 8752539802081324526
+      armoire_66: 4366237794530516997
+      armoire_67: -3187673482371618872
+      armoire_68: 4609358454628745493
+      armoire_69: -7445694383086072468
+      armoire_7: -8344599645703452518
+      armoire_70: -5108293858947190794
+      armoire_71: -2867126225158265857
+      armoire_72: -8366474117867839207
+      armoire_73: -7500798924989765513
+      armoire_74: -8869528122986714600
+      armoire_75: -1219127452457607879
+      armoire_76: -8606203604603973369
+      armoire_77: 3370788129815068524
+      armoire_78: -3843059589988222519
+      armoire_79: -1398517818983711072
+      armoire_8: -8116470692856225169
+      armoire_80: 1145590893776945979
+      armoire_81: -6010811038021756720
+      armoire_82: -5859767960874083664
+      armoire_83: -8017738156617086520
+      armoire_84: -2435618865285038313
+      armoire_85: -1993078005026032563
+      armoire_86: -7085099427521480558
+      armoire_87: 1033475944725813018
+      armoire_88: -2923827733866770824
+      armoire_89: -3019826334764772828
+      armoire_9: 5849558801978690099
+      armoire_90: 7854150746409668336
+      armoire_91: -1332178659204740993
+      armoire_92: -4263059400012985346
+      armoire_93: -9082609656892320048
+      armoire_94: -3982335228170071152
+      armoire_95: 2297006480462612569
+      armoire_96: -8174942089559647882
+      armoire_97: -2350817775236587227
+      armoire_98: -5632599966786989075
+      armoire_99: -6899209387899875773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

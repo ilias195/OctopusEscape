@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bouy rope_0: 214674345574498265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

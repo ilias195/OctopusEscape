@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Room1_ClosedChest_0: 4919094813999391268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
