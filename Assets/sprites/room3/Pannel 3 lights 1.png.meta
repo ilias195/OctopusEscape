@@ -1,0 +1,3692 @@
+fileFormatVersion: 2
+guid: 57a56401319df0d44bcad8541d333a5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5835890608052806163
+    second: Pannel 3 lights 1_0
+  - first:
+      213: 4870394920355679288
+    second: Pannel 3 lights 1_1
+  - first:
+      213: 4960823994661113559
+    second: Pannel 3 lights 1_2
+  - first:
+      213: -5457053635743058073
+    second: Pannel 3 lights 1_3
+  - first:
+      213: 8670900397673617898
+    second: Pannel 3 lights 1_4
+  - first:
+      213: 2990303504250951820
+    second: Pannel 3 lights 1_5
+  - first:
+      213: -4411480669500382115
+    second: Pannel 3 lights 1_6
+  - first:
+      213: -9175849693353331656
+    second: Pannel 3 lights 1_7
+  - first:
+      213: -7954844392472965981
+    second: Pannel 3 lights 1_8
+  - first:
+      213: -2818893904529035810
+    second: Pannel 3 lights 1_9
+  - first:
+      213: -4605558834108703735
+    second: Pannel 3 lights 1_10
+  - first:
+      213: -1629169362027729536
+    second: Pannel 3 lights 1_11
+  - first:
+      213: 6024306158972854490
+    second: Pannel 3 lights 1_12
+  - first:
+      213: 4731721360845164358
+    second: Pannel 3 lights 1_13
+  - first:
+      213: -2970047562263935215
+    second: Pannel 3 lights 1_14
+  - first:
+      213: 4448810854676052605
+    second: Pannel 3 lights 1_15
+  - first:
+      213: 3328250673830506857
+    second: Pannel 3 lights 1_16
+  - first:
+      213: 7205579169641177981
+    second: Pannel 3 lights 1_17
+  - first:
+      213: 7124133198708669099
+    second: Pannel 3 lights 1_18
+  - first:
+      213: -388495453530084162
+    second: Pannel 3 lights 1_19
+  - first:
+      213: 7182979550824533934
+    second: Pannel 3 lights 1_20
+  - first:
+      213: 2835787830913996154
+    second: Pannel 3 lights 1_21
+  - first:
+      213: -8858547865413328186
+    second: Pannel 3 lights 1_22
+  - first:
+      213: 8950421170278150994
+    second: Pannel 3 lights 1_23
+  - first:
+      213: 5649324832654144709
+    second: Pannel 3 lights 1_24
+  - first:
+      213: -8198254725584600454
+    second: Pannel 3 lights 1_25
+  - first:
+      213: -5875875547312716710
+    second: Pannel 3 lights 1_26
+  - first:
+      213: -3684485728181776241
+    second: Pannel 3 lights 1_27
+  - first:
+      213: 4585981683745863774
+    second: Pannel 3 lights 1_28
+  - first:
+      213: -4384769687409963087
+    second: Pannel 3 lights 1_29
+  - first:
+      213: -6653490070156013347
+    second: Pannel 3 lights 1_30
+  - first:
+      213: 7246610865814798891
+    second: Pannel 3 lights 1_31
+  - first:
+      213: 6755676383700982240
+    second: Pannel 3 lights 1_32
+  - first:
+      213: -6218144413262778547
+    second: Pannel 3 lights 1_33
+  - first:
+      213: 4493598337963477785
+    second: Pannel 3 lights 1_34
+  - first:
+      213: 2009823582216692099
+    second: Pannel 3 lights 1_35
+  - first:
+      213: -605376780533381663
+    second: Pannel 3 lights 1_36
+  - first:
+      213: -8344718010846411960
+    second: Pannel 3 lights 1_37
+  - first:
+      213: 5034269733977765285
+    second: Pannel 3 lights 1_38
+  - first:
+      213: -817748301981811308
+    second: Pannel 3 lights 1_39
+  - first:
+      213: -3817883359621716204
+    second: Pannel 3 lights 1_40
+  - first:
+      213: 696164900964918244
+    second: Pannel 3 lights 1_41
+  - first:
+      213: -5407414752208982964
+    second: Pannel 3 lights 1_42
+  - first:
+      213: -2382548620057928695
+    second: Pannel 3 lights 1_43
+  - first:
+      213: -375127426722349565
+    second: Pannel 3 lights 1_44
+  - first:
+      213: 2558861589570154205
+    second: Pannel 3 lights 1_45
+  - first:
+      213: 2609079792678384911
+    second: Pannel 3 lights 1_46
+  - first:
+      213: -5579622282626951028
+    second: Pannel 3 lights 1_47
+  - first:
+      213: -7132701972722041308
+    second: Pannel 3 lights 1_48
+  - first:
+      213: 4254576071166183821
+    second: Pannel 3 lights 1_49
+  - first:
+      213: 4481481590409741546
+    second: Pannel 3 lights 1_50
+  - first:
+      213: 4368157906808302746
+    second: Pannel 3 lights 1_51
+  - first:
+      213: -8175073532617902655
+    second: Pannel 3 lights 1_52
+  - first:
+      213: -4484166166217751479
+    second: Pannel 3 lights 1_53
+  - first:
+      213: 4073088769775148081
+    second: Pannel 3 lights 1_54
+  - first:
+      213: 2788609889351723609
+    second: Pannel 3 lights 1_55
+  - first:
+      213: -8888056500532123966
+    second: Pannel 3 lights 1_56
+  - first:
+      213: 5825427032067906755
+    second: Pannel 3 lights 1_57
+  - first:
+      213: 475404018874640090
+    second: Pannel 3 lights 1_58
+  - first:
+      213: 6960603292782087471
+    second: Pannel 3 lights 1_59
+  - first:
+      213: 1770301954741652900
+    second: Pannel 3 lights 1_60
+  - first:
+      213: -7640981107899052230
+    second: Pannel 3 lights 1_61
+  - first:
+      213: 2706635137980133541
+    second: Pannel 3 lights 1_62
+  - first:
+      213: -355364760125963890
+    second: Pannel 3 lights 1_63
+  - first:
+      213: 8452105703043303838
+    second: Pannel 3 lights 1_64
+  - first:
+      213: -7742551055043383011
+    second: Pannel 3 lights 1_65
+  - first:
+      213: -4967224825488469979
+    second: Pannel 3 lights 1_66
+  - first:
+      213: 4114256309579402434
+    second: Pannel 3 lights 1_67
+  - first:
+      213: 8839515913614035779
+    second: Pannel 3 lights 1_68
+  - first:
+      213: -4439741496269060216
+    second: Pannel 3 lights 1_69
+  - first:
+      213: 8874315543397583357
+    second: Pannel 3 lights 1_70
+  - first:
+      213: -5362205993459267193
+    second: Pannel 3 lights 1_71
+  - first:
+      213: -3773164885964991234
+    second: Pannel 3 lights 1_72
+  - first:
+      213: -2287264015157408240
+    second: Pannel 3 lights 1_73
+  - first:
+      213: -1976292494901494537
+    second: Pannel 3 lights 1_74
+  - first:
+      213: 5936411901623073076
+    second: Pannel 3 lights 1_75
+  - first:
+      213: 4077093075565039869
+    second: Pannel 3 lights 1_76
+  - first:
+      213: 6426828021885305015
+    second: Pannel 3 lights 1_77
+  - first:
+      213: -5085919744399535540
+    second: Pannel 3 lights 1_78
+  - first:
+      213: -2723445824461106859
+    second: Pannel 3 lights 1_79
+  - first:
+      213: -6132985754314400053
+    second: Pannel 3 lights 1_80
+  - first:
+      213: -7379252313068794753
+    second: Pannel 3 lights 1_81
+  - first:
+      213: 4718605502553152263
+    second: Pannel 3 lights 1_82
+  - first:
+      213: -7374890982522686703
+    second: Pannel 3 lights 1_83
+  - first:
+      213: -2268163114708835965
+    second: Pannel 3 lights 1_84
+  - first:
+      213: -4560110138208409617
+    second: Pannel 3 lights 1_85
+  - first:
+      213: 4343476327913567383
+    second: Pannel 3 lights 1_86
+  - first:
+      213: 6051576598541538007
+    second: Pannel 3 lights 1_87
+  - first:
+      213: -3113133623753407613
+    second: Pannel 3 lights 1_88
+  - first:
+      213: -114901008034677921
+    second: Pannel 3 lights 1_89
+  - first:
+      213: 3247796679476047043
+    second: Pannel 3 lights 1_90
+  - first:
+      213: 2289482306454939845
+    second: Pannel 3 lights 1_91
+  - first:
+      213: -2724060365692701105
+    second: Pannel 3 lights 1_92
+  - first:
+      213: -1756421905214426247
+    second: Pannel 3 lights 1_93
+  - first:
+      213: -5016328688050094796
+    second: Pannel 3 lights 1_94
+  - first:
+      213: -6847847917388184395
+    second: Pannel 3 lights 1_95
+  - first:
+      213: -3892237124835368161
+    second: Pannel 3 lights 1_96
+  - first:
+      213: -3442324558987416877
+    second: Pannel 3 lights 1_97
+  - first:
+      213: -4031080402022862285
+    second: Pannel 3 lights 1_98
+  - first:
+      213: 5625457438939953188
+    second: Pannel 3 lights 1_99
+  - first:
+      213: 6804844032465025833
+    second: Pannel 3 lights 1_100
+  - first:
+      213: 380176042422462650
+    second: Pannel 3 lights 1_101
+  - first:
+      213: -7504676243661240270
+    second: Pannel 3 lights 1_102
+  - first:
+      213: 5259122730434219224
+    second: Pannel 3 lights 1_103
+  - first:
+      213: -125174217010762803
+    second: Pannel 3 lights 1_104
+  - first:
+      213: 3036645760564320689
+    second: Pannel 3 lights 1_105
+  - first:
+      213: -5023619922819109774
+    second: Pannel 3 lights 1_106
+  - first:
+      213: -1040887345446925861
+    second: Pannel 3 lights 1_107
+  - first:
+      213: -2262380224787556010
+    second: Pannel 3 lights 1_108
+  - first:
+      213: 6362784765882013237
+    second: Pannel 3 lights 1_109
+  - first:
+      213: 2797577313678286361
+    second: Pannel 3 lights 1_110
+  - first:
+      213: -288782137937146000
+    second: Pannel 3 lights 1_111
+  - first:
+      213: 6721449946858410886
+    second: Pannel 3 lights 1_112
+  - first:
+      213: -4018724096399222974
+    second: Pannel 3 lights 1_113
+  - first:
+      213: 3489499886946708940
+    second: Pannel 3 lights 1_114
+  - first:
+      213: -2368117102559995655
+    second: Pannel 3 lights 1_115
+  - first:
+      213: -4869139732601160424
+    second: Pannel 3 lights 1_116
+  - first:
+      213: 1050776265519783922
+    second: Pannel 3 lights 1_117
+  - first:
+      213: -2229036504440831390
+    second: Pannel 3 lights 1_118
+  - first:
+      213: -7340241824253499397
+    second: Pannel 3 lights 1_119
+  - first:
+      213: 6564658434314095009
+    second: Pannel 3 lights 1_120
+  - first:
+      213: -392743673820172376
+    second: Pannel 3 lights 1_121
+  - first:
+      213: -7105812584319105310
+    second: Pannel 3 lights 1_122
+  - first:
+      213: 796843943387926437
+    second: Pannel 3 lights 1_123
+  - first:
+      213: -4919073710635906912
+    second: Pannel 3 lights 1_124
+  - first:
+      213: -609045599988741251
+    second: Pannel 3 lights 1_125
+  - first:
+      213: -3257122502720803080
+    second: Pannel 3 lights 1_126
+  - first:
+      213: 2698626861348762133
+    second: Pannel 3 lights 1_127
+  - first:
+      213: -3488920410470817782
+    second: Pannel 3 lights 1_128
+  - first:
+      213: -4385042398844505728
+    second: Pannel 3 lights 1_129
+  - first:
+      213: 8855285318783861810
+    second: Pannel 3 lights 1_130
+  - first:
+      213: -8012537526767121197
+    second: Pannel 3 lights 1_131
+  - first:
+      213: 5810402441878816087
+    second: Pannel 3 lights 1_132
+  - first:
+      213: 1352559118582282199
+    second: Pannel 3 lights 1_133
+  - first:
+      213: 7281151578356826258
+    second: Pannel 3 lights 1_134
+  - first:
+      213: 971076682585716720
+    second: Pannel 3 lights 1_135
+  - first:
+      213: -1032694403771404114
+    second: Pannel 3 lights 1_136
+  - first:
+      213: 4092540298823581533
+    second: Pannel 3 lights 1_137
+  - first:
+      213: -3153805061679398289
+    second: Pannel 3 lights 1_138
+  - first:
+      213: 5992295870624327764
+    second: Pannel 3 lights 1_139
+  - first:
+      213: -704845694826969570
+    second: Pannel 3 lights 1_140
+  - first:
+      213: -1557302923157926721
+    second: Pannel 3 lights 1_141
+  - first:
+      213: 3034636752710444284
+    second: Pannel 3 lights 1_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_0
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1666
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312a601969f3df050800000000000000
+      internalID: 5835890608052806163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_1
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1681
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ccaa7206e179340800000000000000
+      internalID: 4870394920355679288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_2
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1666
+        width: 77
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de820bb32368d440800000000000000
+      internalID: 4960823994661113559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_3
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1539
+        width: 93
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767f74981a6a444b0800000000000000
+      internalID: -5457053635743058073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_4
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1679
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae91126a8f9355870800000000000000
+      internalID: 8670900397673617898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_5
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1530
+        width: 314
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88db7d9131bf7920800000000000000
+      internalID: 2990303504250951820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_6
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1613
+        width: 278
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d546de044b547c2c0800000000000000
+      internalID: -4411480669500382115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_7
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1685
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8343c43d155d8a080800000000000000
+      internalID: -9175849693353331656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_8
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1663
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac042feb27ba9190800000000000000
+      internalID: -7954844392472965981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_9
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1551
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd6801dde641e8d0800000000000000
+      internalID: -2818893904529035810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_10
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 1683
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cd9c444a4c510c0800000000000000
+      internalID: -4605558834108703735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_11
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1683
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d2361d8170469e0800000000000000
+      internalID: -1629169362027729536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_12
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1671
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad066cf8882aa9350800000000000000
+      internalID: 6024306158972854490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_13
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1671
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fcd4902837aa140800000000000000
+      internalID: 4731721360845164358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_14
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1673
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1174e356a7548c6d0800000000000000
+      internalID: -2970047562263935215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_15
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1637
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a3ed9c6e95dbd30800000000000000
+      internalID: 4448810854676052605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_16
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1650
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9613f11aa52503e20800000000000000
+      internalID: 3328250673830506857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_17
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1659
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73aa67f31c5ff360800000000000000
+      internalID: 7205579169641177981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_18
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1535
+        width: 115
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaf89126610ed260800000000000000
+      internalID: 7124133198708669099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_19
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1644
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc2c7f7179cb9af0800000000000000
+      internalID: -388495453530084162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_20
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1574
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf8acb28d11fa360800000000000000
+      internalID: 7182979550824533934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_21
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1642
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a751100f10eba5720800000000000000
+      internalID: 2835787830913996154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_22
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1640
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c26e38a6ad101580800000000000000
+      internalID: -8858547865413328186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_23
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1636
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b09c02a8463c70800000000000000
+      internalID: 8950421170278150994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_24
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1632
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4b42ff00f666e40800000000000000
+      internalID: 5649324832654144709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_25
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1614
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72cc5763c2f93e80800000000000000
+      internalID: -8198254725584600454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_26
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1608
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54850a4252b47ea0800000000000000
+      internalID: -5875875547312716710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_27
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1618
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f809abf50c31edcc0800000000000000
+      internalID: -3684485728181776241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_28
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1620
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58be163b0ea4af30800000000000000
+      internalID: 4585981683745863774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_29
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1597
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf4708633b2623c0800000000000000
+      internalID: -4384769687409963087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_30
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1606
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd013cb680e0aa3a0800000000000000
+      internalID: -6653490070156013347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_31
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1603
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2280623032219460800000000000000
+      internalID: 7246610865814798891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_32
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1606
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e91efbb0ebf0cd50800000000000000
+      internalID: 6755676383700982240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_33
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1608
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f646de996b4b9a0800000000000000
+      internalID: -6218144413262778547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_34
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1246
+        width: 544
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b499951e77c5e30800000000000000
+      internalID: 4493598337963477785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_35
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1578
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381aa3746e354eb10800000000000000
+      internalID: 2009823582216692099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_36
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1586
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5c90986054997f0800000000000000
+      internalID: -605376780533381663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_37
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1592
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84302bc6e2b913c80800000000000000
+      internalID: -8344718010846411960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_38
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1577
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5be3d76a15dd540800000000000000
+      internalID: 5034269733977765285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_39
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1582
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49df1b08046c6a4f0800000000000000
+      internalID: -817748301981811308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_40
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1337
+        width: 90
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4176fdbff47240bc0800000000000000
+      internalID: -3817883359621716204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_41
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1549
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3eb1bf94649a900800000000000000
+      internalID: 696164900964918244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_42
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c606dbee005f4b0800000000000000
+      internalID: -5407414752208982964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_43
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1536
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c995147ac7feed0800000000000000
+      internalID: -2382548620057928695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_44
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1535
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e35b8c7974bcaf0800000000000000
+      internalID: -375127426722349565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_45
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1543
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde68bbee07e28320800000000000000
+      internalID: 2558861589570154205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_46
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1495
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05be397f30553420800000000000000
+      internalID: 2609079792678384911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_47
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1543
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c889a2798133192b0800000000000000
+      internalID: -5579622282626951028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_48
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1533
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ebc23b85d830d90800000000000000
+      internalID: -7132701972722041308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_49
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1534
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89ccbf156a4b0b30800000000000000
+      internalID: 4254576071166183821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_50
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1540
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae443d733cb613e30800000000000000
+      internalID: 4481481590409741546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_51
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1532
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c6f160970de9c30800000000000000
+      internalID: 4368157906808302746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_52
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1537
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5bc9b7fed4c8e80800000000000000
+      internalID: -8175073532617902655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_53
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1535
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94404c441aa05c1c0800000000000000
+      internalID: -4484166166217751479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_54
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1542
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c941de7a4868830800000000000000
+      internalID: 4073088769775148081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_55
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1533
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a63ff6be123b620800000000000000
+      internalID: 2788609889351723609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_56
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1534
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66e2624b747a480800000000000000
+      internalID: -8888056500532123966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_57
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1537
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc9d5f650318d050800000000000000
+      internalID: 5825427032067906755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_58
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1538
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6e0d5bf69f89600800000000000000
+      internalID: 475404018874640090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_59
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1539
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dc0b0e0d7099060800000000000000
+      internalID: 6960603292782087471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_60
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1470
+        width: 150
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad4e859f30619810800000000000000
+      internalID: 1770301954741652900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_61
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1283
+        width: 283
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fc4308a28c5f590800000000000000
+      internalID: -7640981107899052230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_62
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1526
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a075ef4156ef8520800000000000000
+      internalID: 2706635137980133541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_63
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1528
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81000b22ad711bf0800000000000000
+      internalID: -355364760125963890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_64
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1527
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9903f11b59eb4570800000000000000
+      internalID: 8452105703043303838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_65
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1527
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1130d456deec8490800000000000000
+      internalID: -7742551055043383011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_66
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1523
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201245b65fd01bb0800000000000000
+      internalID: -4967224825488469979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_67
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1524
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc367b056c81930800000000000000
+      internalID: 4114256309579402434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_68
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1529
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b8061c3e44caa70800000000000000
+      internalID: 8839515913614035779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_69
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1523
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8874254c1aed262c0800000000000000
+      internalID: -4439741496269060216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_70
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1521
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9c0f4f7f6e72b70800000000000000
+      internalID: 8874315543397583357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_71
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1531
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789c3632f0e9595b0800000000000000
+      internalID: -5362205993459267193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_72
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1521
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4541df68603abc0800000000000000
+      internalID: -3773164885964991234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_73
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1493
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e42052f710240e0800000000000000
+      internalID: -2287264015157408240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_74
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1456
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc302d527cc294e0800000000000000
+      internalID: -1976292494901494537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_75
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1447
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f4ac0c2f526250800000000000000
+      internalID: 5936411901623073076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_76
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1427
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df052450d8eb49830800000000000000
+      internalID: 4077093075565039869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_77
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1430
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0000df80ea03950800000000000000
+      internalID: 6426828021885305015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_78
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1401
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c429be650fe2b69b0800000000000000
+      internalID: -5085919744399535540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_79
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1370
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55199fbb370643ad0800000000000000
+      internalID: -2723445824461106859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_80
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1444
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce1f8d43f143eaa0800000000000000
+      internalID: -6132985754314400053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_81
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1369
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c0e834e11a79990800000000000000
+      internalID: -7379252313068794753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_82
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1283
+        width: 158
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b52ee44badb7140800000000000000
+      internalID: 4718605502553152263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_83
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1359
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f089a9bf17a990800000000000000
+      internalID: -7374890982522686703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_84
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381e2271aadd580e0800000000000000
+      internalID: -2268163114708835965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_85
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1338
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe72e636dfb37b0c0800000000000000
+      internalID: -4560110138208409617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_86
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1279
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7943b9f15b0274c30800000000000000
+      internalID: 4343476327913567383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_87
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1243
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2922f8ad48bf350800000000000000
+      internalID: 6051576598541538007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_88
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1314
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3838ad9967debc4d0800000000000000
+      internalID: -3113133623753407613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_89
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1317
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b32c7542ac76ef0800000000000000
+      internalID: -114901008034677921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_90
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1316
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccecd65fdd721d20800000000000000
+      internalID: 3247796679476047043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_91
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1320
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8e9cb0700e5cf10800000000000000
+      internalID: 2289482306454939845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_92
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1236
+        width: 104
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f467a24b781323ad0800000000000000
+      internalID: -2724060365692701105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_93
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1274
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973baf7459fef97e0800000000000000
+      internalID: -1756421905214426247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_94
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1269
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d3c28c2ab626ab0800000000000000
+      internalID: -5016328688050094796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_95
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4cd20c99e87f0a0800000000000000
+      internalID: -6847847917388184395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_96
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1278
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a998f4fefbf9c0800000000000000
+      internalID: -3892237124835368161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_97
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1276
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daa3f34d086a30d0800000000000000
+      internalID: -3442324558987416877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_98
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1241
+        width: 135
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33273606bb9be08c0800000000000000
+      internalID: -4031080402022862285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_99
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1251
+        width: 162
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428381b5cb3a11e40800000000000000
+      internalID: 5625457438939953188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_100
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1237
+        width: 102
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bb30b0899af6e50800000000000000
+      internalID: 6804844032465025833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_101
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab864b8a818a64500800000000000000
+      internalID: 380176042422462650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_102
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1251
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2384246c7b80ad790800000000000000
+      internalID: -7504676243661240270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_103
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1241
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcc6b162482cf840800000000000000
+      internalID: 5259122730434219224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_104
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1230
+        width: 155
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb290c76ba434ef0800000000000000
+      internalID: -125174217010762803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_105
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1136
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9d12bfa35542a20800000000000000
+      internalID: 3036645760564320689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_106
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1197
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27caac5eb44884ab0800000000000000
+      internalID: -5023619922819109774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_107
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1194
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9cf6369760e81f0800000000000000
+      internalID: -1040887345446925861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_108
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1143
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6595ba21c296a90e0800000000000000
+      internalID: -2262380224787556010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_109
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1160
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361aa878072d4850800000000000000
+      internalID: 6362784765882013237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_110
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1140
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e5c7d9ebdf2d620800000000000000
+      internalID: 2797577313678286361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_111
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1154
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f47c2fc2a0efbf0800000000000000
+      internalID: -288782137937146000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_112
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1045
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683501a6d13674d50800000000000000
+      internalID: 6721449946858410886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_113
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1128
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24752d7f9bf9a38c0800000000000000
+      internalID: -4018724096399222974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_114
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1137
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd6935b8a13d6030800000000000000
+      internalID: 3489499886946708940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_115
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1133
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f85263ca02c22fd0800000000000000
+      internalID: -2368117102559995655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_116
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1121
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d319406375d6cb0800000000000000
+      internalID: -4869139732601160424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_117
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1139
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffd7bc327b159e00800000000000000
+      internalID: 1050776265519783922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_118
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1130
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620d61fb1fd011e0800000000000000
+      internalID: -2229036504440831390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_119
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1117
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7a7eb73f8322a90800000000000000
+      internalID: -7340241824253499397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_120
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a94011a01a5a1b50800000000000000
+      internalID: 6564658434314095009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_121
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1164
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afaa22a5b1bc8af0800000000000000
+      internalID: -392743673820172376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_122
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1195
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6c82f4a15136d90800000000000000
+      internalID: -7105812584319105310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_123
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1158
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af0f0b3855fe0b00800000000000000
+      internalID: 796843943387926437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_124
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1167
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a88595c580fbbbb0800000000000000
+      internalID: -4919073710635906912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_125
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1118
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b08a0f04c3c87f0800000000000000
+      internalID: -609045599988741251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_126
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1113
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe256b37506cc2d0800000000000000
+      internalID: -3257122502720803080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_127
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1112
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512350c15d2737520800000000000000
+      internalID: 2698626861348762133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_128
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1081
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00e64c2f5dd49fc0800000000000000
+      internalID: -3488920410470817782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_129
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1103
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081b8d3db233523c0800000000000000
+      internalID: -4385042398844505728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_130
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1097
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23408d2841b44ea70800000000000000
+      internalID: 8855285318783861810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_131
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1085
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc0f87529fbdc090800000000000000
+      internalID: -8012537526767121197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_132
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 980
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755cf3e6c32b2a050800000000000000
+      internalID: 5810402441878816087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_133
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1085
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7ffc82a5145c210800000000000000
+      internalID: 1352559118582282199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_134
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1084
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290cbb788c8db0560800000000000000
+      internalID: 7281151578356826258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_135
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 997
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7bf2b0915f97d00800000000000000
+      internalID: 971076682585716720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_136
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1066
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0fba549e12ba1f0800000000000000
+      internalID: -1032694403771404114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_137
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1039
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fb954f7bf9bc830800000000000000
+      internalID: 4092540298823581533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_138
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1047
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6245c7810f6b34d0800000000000000
+      internalID: -3153805061679398289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_139
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1039
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4586a958859e82350800000000000000
+      internalID: 5992295870624327764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_140
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 966
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1600623392e736f0800000000000000
+      internalID: -704845694826969570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_141
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 935
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc8e790e39536ae0800000000000000
+      internalID: -1557302923157926721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pannel 3 lights 1_142
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 863
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a6a36c023d1a20800000000000000
+      internalID: 3034636752710444284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lucifer flam_0: 1266479437709415153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lucifer match unused_0: -8149453913053536784
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

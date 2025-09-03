@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Room1_ChestGlow_0: -4554532805038647838
+      Room1_ChestGlow_1: -4804464338159031142
+      Room1_ChestGlow_2: 5706052677728664483
+      Room1_ChestGlow_3: -5651287445803585331
+      Room1_ChestGlow_4: -7826245147058358252
+      Room1_ChestGlow_5: 6815149873932858887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

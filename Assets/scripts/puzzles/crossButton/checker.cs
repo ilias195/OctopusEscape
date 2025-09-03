@@ -13,6 +13,9 @@ public class checker : MonoBehaviour
     [SerializeField] private GameObject button8;
     [SerializeField] private GameObject button9;
 
+    [SerializeField] private GameObject closedDoor;
+    [SerializeField] private GameObject openDoor;
+
     SpriteRenderer spriteRenderer;
 
     private bool state = false;
@@ -29,6 +32,9 @@ public class checker : MonoBehaviour
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         spriteRenderer.color = Color.red;
+
+        closedDoor.SetActive(true);
+        openDoor.SetActive(false);
     }
 
     void Update()
@@ -36,6 +42,9 @@ public class checker : MonoBehaviour
         if (switch1 && switch2 && switch3 && switch4 && switch5 && switch6 && switch7 && switch8 && switch9 || Input.GetKeyDown(KeyCode.R))
         {
             state = true;
+
+            closedDoor.SetActive(false );
+            openDoor.SetActive(true);
         }
 
         if (state)
