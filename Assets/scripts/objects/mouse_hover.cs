@@ -28,7 +28,10 @@ public class mouse_hover : MonoBehaviour
             Console.WriteLine("exit");
         }
 
-        
+        if (sprite1 == null || sprite2 == null) 
+        {
+            Destroy(this);
+        }
     }
 
     private void OnMouseEnter()
