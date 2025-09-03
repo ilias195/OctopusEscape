@@ -84,7 +84,7 @@ public class RecationTime : MonoBehaviour
 
                 if (currentIndex >= targetWord.Length)
                 {
-                    // ✅ alle letters goed → volgende level
+                    //  alle letters goed → volgende level
                     StartLevel(currentLevel + 1);
                 }
                 else

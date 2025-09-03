@@ -1984,7 +1984,82 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      openDoorWhite_0: 3304968243172505421
+      openDoorWhite_1: 8507295205077697573
+      openDoorWhite_10: -5448050052964720356
+      openDoorWhite_11: -8679392024276570783
+      openDoorWhite_12: -7503677952832654214
+      openDoorWhite_13: 5429352465954077131
+      openDoorWhite_14: 3176365482931879498
+      openDoorWhite_15: 2810720582206673130
+      openDoorWhite_16: 3587688578817017652
+      openDoorWhite_17: 8012383143659341388
+      openDoorWhite_18: 3201696281860382387
+      openDoorWhite_19: -705943006325519119
+      openDoorWhite_2: -5526692337959837482
+      openDoorWhite_20: -3867334025186620735
+      openDoorWhite_21: 4026033371791147626
+      openDoorWhite_22: 1483052584294864352
+      openDoorWhite_23: -89360419454805096
+      openDoorWhite_24: -5141326839074016782
+      openDoorWhite_25: 7041279026527558754
+      openDoorWhite_26: -1545882219887131823
+      openDoorWhite_27: 6936536064532735587
+      openDoorWhite_28: 2018342067135974435
+      openDoorWhite_29: 6926614212721632805
+      openDoorWhite_3: -8563620310212041523
+      openDoorWhite_30: 5113762889219168174
+      openDoorWhite_31: -1328956926204710274
+      openDoorWhite_32: -8865729861079412814
+      openDoorWhite_33: 304884583528900725
+      openDoorWhite_34: 6497331672298280757
+      openDoorWhite_35: -6636014949577798488
+      openDoorWhite_36: 5043156059793606404
+      openDoorWhite_37: -3957951446447030930
+      openDoorWhite_38: 2509435426012229283
+      openDoorWhite_39: 7002711396697796355
+      openDoorWhite_4: 1503556095173943931
+      openDoorWhite_40: -2633229153933808659
+      openDoorWhite_41: -2377032045967017644
+      openDoorWhite_42: -8924716734017902750
+      openDoorWhite_43: 3184258243836548099
+      openDoorWhite_44: 584530658043876180
+      openDoorWhite_45: -7884111771392922676
+      openDoorWhite_46: -4518306091953903896
+      openDoorWhite_47: 585697125168078958
+      openDoorWhite_48: -4837574795193312755
+      openDoorWhite_49: 5492064535382532388
+      openDoorWhite_5: 7444634316396835993
+      openDoorWhite_50: -3632790884989964287
+      openDoorWhite_51: -8316168854541482495
+      openDoorWhite_52: -1974019443380114461
+      openDoorWhite_53: -342064020702165459
+      openDoorWhite_54: -8918290541443880545
+      openDoorWhite_55: 3943741672242691400
+      openDoorWhite_56: 6275705156561511689
+      openDoorWhite_57: -8381263666387391552
+      openDoorWhite_58: 3325099995159337812
+      openDoorWhite_59: -163322159297239018
+      openDoorWhite_6: -4331756275394599062
+      openDoorWhite_60: -3657032485080190816
+      openDoorWhite_61: 6866114404809689083
+      openDoorWhite_62: 3885298455872578528
+      openDoorWhite_63: 1300811001569155113
+      openDoorWhite_64: -4589547170207047120
+      openDoorWhite_65: 6761040870348920657
+      openDoorWhite_66: 3906017695302304274
+      openDoorWhite_67: -5891117576685735204
+      openDoorWhite_68: -7893075898180024126
+      openDoorWhite_69: 487296022870885225
+      openDoorWhite_7: -6043728341695311525
+      openDoorWhite_70: -4352626165674099071
+      openDoorWhite_71: 6074477064068165279
+      openDoorWhite_72: -7419129558682177833
+      openDoorWhite_73: -38314677191041454
+      openDoorWhite_74: -1215154512364917058
+      openDoorWhite_8: -7051066799595090174
+      openDoorWhite_9: -8812806578216294749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
