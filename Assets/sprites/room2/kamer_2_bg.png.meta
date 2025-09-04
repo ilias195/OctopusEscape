@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kamer_2_bg_0: 8025301523899401006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

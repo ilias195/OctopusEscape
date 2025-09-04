@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kamer_2_meubels_0: 356226698314223618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
