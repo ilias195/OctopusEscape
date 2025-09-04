@@ -1,6 +1,6 @@
 using NUnit.Framework;
+using System.Xml.Linq;
 using Unity.VisualScripting;
-using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -44,6 +44,7 @@ public class object_checker : MonoBehaviour
             Destroy(closedSprite2);
             Destroy(closedSprite1);
             Destroy(boxCollider);
+            GetComponent<mouse_hover>().enabled = false;
         }
     }
 }
