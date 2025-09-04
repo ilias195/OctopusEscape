@@ -6,6 +6,7 @@ public class PauseMenu : MonoBehaviour
     [SerializeField] GameObject pauseMenu;
     public void Pause()
     {
+        Debug.Log("pause knop");
       pauseMenu.SetActive(true);
         Time.timeScale = 0;
     }
